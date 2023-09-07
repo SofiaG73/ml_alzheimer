@@ -1,0 +1,1001 @@
+patient_id,site_name,site_id,sex,age_years,age_months,handedness,years_education,marital_status,ethnicity
+1,UEDIN,010,f,51,4,Right Hand,11,Single,Combination of previous groups
+2,UEDIN,010,m,76,3,Left Hand,10,Married or cohabiting,Caucasian/white
+3,UEDIN,010,f,61,4,Right Hand,14,Married or cohabiting,Black
+4,UEDIN,010,f,53,1,Left Hand,10,Single,Asian
+5,BBRC,020,f,77,7,Left Hand,20,Divorced,Asian
+6,CHUT,040,m,56,12,Left Hand,19,Single,Combination of previous groups
+7,BBRC,020,f,80,5,Left Hand,19,Married or cohabiting,Asian
+8,BBRC,020,f,77,3,Right Hand,15,Married or cohabiting,Combination of previous groups
+9,UEDIN,010,m,62,5,Left Hand,19,Divorced,Black
+10,CHUT,040,f,75,5,Left Hand,19,Single,Asian
+11,VUMC,030,m,59,11,Right Hand,11,Single,Other
+12,CHUT,040,f,50,10,Left Hand,15,Widowed,Other
+13,VUMC,030,m,90,9,Right Hand,18,Married or cohabiting,Other
+14,CHUT,040,m,52,4,Left Hand,11,Single,Asian
+15,UEDIN,010,m,50,4,Left Hand,15,Divorced,Other
+16,UEDIN,010,f,56,9,Left Hand,17,Single,Other
+17,BBRC,020,m,58,8,Right Hand,16,Single,Other
+18,CHUT,040,m,51,11,Left Hand,16,Divorced,Combination of previous groups
+19,BBRC,020,f,63,10,Right Hand,17,Widowed,Combination of previous groups
+20,BBRC,020,m,70,11,Left Hand,12,Widowed,Combination of previous groups
+21,VUMC,030,f,78,11,Right Hand,15,Divorced,Asian
+22,VUMC,030,m,67,5,Right Hand,18,Widowed,Black
+23,UEDIN,010,m,61,11,Left Hand,17,Widowed,Other
+24,UEDIN,010,m,71,9,Left Hand,16,Widowed,Combination of previous groups
+25,VUMC,030,m,77,11,Right Hand,20,Divorced,Other
+26,CHUT,040,m,74,5,Right Hand,18,Single,Black
+27,UEDIN,010,f,90,11,Right Hand,20,Single,Caucasian/white
+28,VUMC,030,m,84,2,Left Hand,17,Divorced,Combination of previous groups
+29,UEDIN,010,un,75,3,Left Hand,11,Widowed,Combination of previous groups
+30,UEDIN,010,u,58,7,Left Hand,16,Married or cohabiting,Asian
+31,CHUT,040,un,82,9,Right Hand,20,Widowed,Caucasian/white
+32,BBRC,020,m,63,4,Left Hand,19,Single,Other
+33,CHUT,040,m,76,6,Right Hand,20,Single,Combination of previous groups
+34,CHUT,040,m,61,5,Left Hand,11,Divorced,Caucasian/white
+35,VUMC,030,m,63,8,Left Hand,19,Single,Combination of previous groups
+36,BBRC,020,f,61,9,Right Hand,10,Married or cohabiting,Other
+37,UEDIN,010,u,81,6,Left Hand,17,Widowed,Black
+38,BBRC,020,f,69,12,Left Hand,10,Married or cohabiting,Other
+39,CHUT,040,f,72,1,Right Hand,11,Married or cohabiting,Caucasian/white
+40,BBRC,020,m,71,10,Right Hand,14,Divorced,Combination of previous groups
+41,VUMC,030,u,53,3,Left Hand,12,Divorced,Caucasian/white
+42,VUMC,030,m,62,6,Left Hand,18,Married or cohabiting,Asian
+43,BBRC,020,m,54,12,Right Hand,12,Married or cohabiting,Caucasian/white
+44,BBRC,020,f,85,2,Left Hand,13,Divorced,Combination of previous groups
+45,CHUT,040,f,69,6,Right Hand,14,Married or cohabiting,Caucasian/white
+46,CHUT,040,m,82,3,Left Hand,17,Single,Asian
+47,CHUT,040,f,79,10,Right Hand,18,Divorced,Asian
+48,BBRC,020,f,58,12,Left Hand,12,Married or cohabiting,Combination of previous groups
+49,BBRC,020,un,58,1,Right Hand,12,Single,Asian
+50,UEDIN,010,m,62,10,Left Hand,18,Widowed,Caucasian/white
+51,CHUT,040,f,90,2,Right Hand,10,Widowed,Other
+52,UEDIN,010,m,83,7,Right Hand,17,Single,Black
+53,CHUT,040,m,80,8,Left Hand,14,Single,Caucasian/white
+54,BBRC,020,f,78,11,Left Hand,20,Single,Combination of previous groups
+55,CHUT,040,m,76,10,Right Hand,19,Married or cohabiting,Black
+56,BBRC,020,f,58,10,Right Hand,13,Divorced,Combination of previous groups
+57,VUMC,030,f,77,3,Right Hand,18,Widowed,Other
+58,CHUT,040,f,64,12,Left Hand,14,Single,Black
+59,VUMC,030,m,61,9,Right Hand,19,Widowed,Caucasian/white
+60,UEDIN,010,m,67,11,Left Hand,19,Widowed,Black
+61,UEDIN,010,m,64,5,Left Hand,20,Widowed,Black
+62,BBRC,020,f,65,4,Left Hand,20,Widowed,Asian
+63,BBRC,020,m,72,3,Right Hand,13,Married or cohabiting,Combination of previous groups
+64,BBRC,020,m,61,9,Right Hand,19,Single,Caucasian/white
+65,BBRC,020,m,89,2,Left Hand,18,Divorced,Caucasian/white
+66,BBRC,020,f,60,12,Left Hand,13,Married or cohabiting,Black
+67,CHUT,040,f,67,5,Right Hand,15,Widowed,Asian
+68,VUMC,030,m,62,11,Right Hand,18,Widowed,Black
+69,BBRC,020,m,64,3,Right Hand,20,Widowed,Combination of previous groups
+70,UEDIN,010,f,88,6,Right Hand,12,Widowed,Asian
+71,BBRC,020,f,53,3,Left Hand,18,Divorced,Black
+72,VUMC,030,m,53,9,Left Hand,20,Widowed,Other
+73,BBRC,020,f,88,1,Left Hand,18,Widowed,Caucasian/white
+74,BBRC,020,u,72,12,Right Hand,12,Single,Black
+75,BBRC,020,m,86,7,Left Hand,16,Divorced,Other
+76,CHUT,040,f,62,11,Left Hand,16,Widowed,Caucasian/white
+77,UEDIN,010,u,77,7,Right Hand,16,Married or cohabiting,Black
+78,UEDIN,010,m,69,4,Right Hand,14,Divorced,Caucasian/white
+79,UEDIN,010,m,63,2,Right Hand,18,Widowed,Asian
+80,VUMC,030,m,80,5,Left Hand,18,Divorced,Caucasian/white
+81,CHUT,040,m,72,6,Left Hand,20,Married or cohabiting,Black
+82,UEDIN,010,un,55,5,Left Hand,14,Single,Caucasian/white
+83,BBRC,020,m,83,6,Right Hand,17,Divorced,Combination of previous groups
+84,UEDIN,010,f,79,2,Left Hand,15,Widowed,Other
+85,UEDIN,010,f,79,10,Right Hand,17,Married or cohabiting,Black
+86,CHUT,040,m,56,7,Left Hand,10,Widowed,Combination of previous groups
+87,CHUT,040,u,63,6,Left Hand,16,Divorced,Other
+88,UEDIN,010,f,86,10,Right Hand,13,Widowed,Other
+89,VUMC,030,f,57,6,Left Hand,14,Divorced,Black
+90,VUMC,030,m,80,4,Left Hand,13,Divorced,Caucasian/white
+91,UEDIN,010,u,52,9,Right Hand,13,Widowed,Other
+92,CHUT,040,m,74,5,Right Hand,14,Divorced,Combination of previous groups
+93,UEDIN,010,f,81,1,Right Hand,20,Single,Black
+94,CHUT,040,f,61,4,Left Hand,12,Divorced,Asian
+95,CHUT,040,m,68,8,Right Hand,20,Married or cohabiting,Combination of previous groups
+96,BBRC,020,f,74,3,Left Hand,10,Single,Asian
+97,UEDIN,010,f,62,9,Right Hand,20,Single,Black
+98,CHUT,040,m,65,10,Right Hand,13,Widowed,Other
+99,BBRC,020,u,54,4,Left Hand,18,Married or cohabiting,Combination of previous groups
+100,BBRC,020,f,86,7,Right Hand,13,Single,Asian
+101,BBRC,020,m,57,10,Right Hand,10,Divorced,Other
+102,CHUT,040,f,61,9,Right Hand,18,Divorced,Asian
+103,UEDIN,010,f,51,7,Right Hand,14,Single,Other
+104,BBRC,020,m,82,5,Right Hand,15,Widowed,Black
+105,UEDIN,010,m,68,9,Right Hand,17,Married or cohabiting,Black
+106,BBRC,020,f,61,3,Left Hand,10,Divorced,Combination of previous groups
+107,CHUT,040,f,64,2,Left Hand,11,Single,Other
+108,VUMC,030,m,72,1,Right Hand,16,Widowed,Asian
+109,CHUT,040,f,50,5,Left Hand,12,Married or cohabiting,Asian
+110,UEDIN,010,f,62,6,Left Hand,12,Divorced,Caucasian/white
+111,CHUT,040,f,79,3,Left Hand,14,Single,Caucasian/white
+112,UEDIN,010,m,51,3,Left Hand,19,Single,Black
+113,CHUT,040,u,84,11,Right Hand,10,Single,Black
+114,VUMC,030,f,50,10,Left Hand,13,Widowed,Combination of previous groups
+115,BBRC,020,m,55,9,Left Hand,19,Widowed,Combination of previous groups
+116,BBRC,020,m,90,9,Left Hand,14,Single,Other
+117,VUMC,030,f,52,5,Right Hand,12,Widowed,Asian
+118,UEDIN,010,f,82,3,Right Hand,15,Widowed,Other
+119,UEDIN,010,m,86,8,Left Hand,14,Widowed,Combination of previous groups
+120,BBRC,020,u,61,7,Left Hand,10,Single,Other
+121,VUMC,030,f,55,11,Left Hand,17,Widowed,Asian
+122,CHUT,040,u,55,7,Right Hand,20,Widowed,Black
+123,CHUT,040,f,63,1,Right Hand,17,Single,Asian
+124,BBRC,020,m,75,3,Left Hand,19,Divorced,Other
+125,CHUT,040,f,83,2,Left Hand,16,Single,Black
+126,UEDIN,010,f,52,10,Right Hand,14,Widowed,Black
+127,UEDIN,010,f,84,9,Right Hand,19,Married or cohabiting,Asian
+128,CHUT,040,f,66,9,Left Hand,14,Widowed,Asian
+129,UEDIN,010,m,85,5,Left Hand,10,Married or cohabiting,Asian
+130,UEDIN,010,f,50,1,Left Hand,10,Married or cohabiting,Asian
+131,UEDIN,010,m,89,1,Right Hand,19,Married or cohabiting,Caucasian/white
+132,BBRC,020,f,67,2,Right Hand,19,Divorced,Asian
+133,VUMC,030,f,66,7,Left Hand,11,Single,Other
+134,UEDIN,010,m,71,5,Left Hand,17,Married or cohabiting,Black
+135,BBRC,020,f,51,8,Right Hand,12,Single,Asian
+136,CHUT,040,f,75,8,Right Hand,19,Single,Caucasian/white
+137,CHUT,040,m,69,9,Right Hand,10,Widowed,Black
+138,UEDIN,010,m,56,4,Left Hand,10,Single,Black
+139,VUMC,030,m,87,7,Left Hand,16,Divorced,Other
+140,BBRC,020,f,51,10,Left Hand,20,Divorced,Black
+141,UEDIN,010,m,84,1,Left Hand,10,Single,Black
+142,UEDIN,010,u,60,10,Left Hand,19,Divorced,Other
+143,BBRC,020,m,55,4,Left Hand,18,Widowed,Caucasian/white
+144,UEDIN,010,f,58,11,Left Hand,17,Widowed,Other
+145,UEDIN,010,m,52,3,Left Hand,10,Widowed,Asian
+146,VUMC,030,m,72,1,Right Hand,12,Divorced,Caucasian/white
+147,CHUT,040,m,81,6,Right Hand,13,Single,Caucasian/white
+148,BBRC,020,m,83,10,Right Hand,10,Widowed,Combination of previous groups
+149,VUMC,030,m,59,11,Right Hand,18,Divorced,Caucasian/white
+150,BBRC,020,m,78,11,Left Hand,10,Married or cohabiting,Caucasian/white
+151,BBRC,020,f,53,5,Right Hand,11,Single,Caucasian/white
+152,CHUT,040,m,61,8,Left Hand,16,Widowed,Other
+153,UEDIN,010,un,77,9,Left Hand,17,Single,Asian
+154,VUMC,030,f,69,2,Left Hand,13,Married or cohabiting,Black
+155,UEDIN,010,f,72,5,Right Hand,15,Single,Caucasian/white
+156,UEDIN,010,u,78,4,Right Hand,19,Divorced,Black
+157,UEDIN,010,f,76,2,Left Hand,10,Widowed,Caucasian/white
+158,VUMC,030,f,83,1,Right Hand,11,Widowed,Asian
+159,VUMC,030,f,70,12,Left Hand,15,Widowed,Asian
+160,CHUT,040,m,87,4,Left Hand,20,Widowed,Caucasian/white
+161,UEDIN,010,f,52,7,Left Hand,11,Widowed,Combination of previous groups
+162,BBRC,020,m,75,1,Right Hand,19,Married or cohabiting,Combination of previous groups
+163,BBRC,020,m,61,5,Left Hand,20,Married or cohabiting,Caucasian/white
+164,VUMC,030,m,68,8,Left Hand,15,Married or cohabiting,Caucasian/white
+165,BBRC,020,m,59,11,Right Hand,10,Single,Asian
+166,CHUT,040,m,76,8,Right Hand,15,Married or cohabiting,Combination of previous groups
+167,VUMC,030,m,79,4,Left Hand,12,Married or cohabiting,Combination of previous groups
+168,VUMC,030,m,89,10,Left Hand,14,Married or cohabiting,Asian
+169,BBRC,020,f,55,1,Left Hand,14,Married or cohabiting,Other
+170,UEDIN,010,m,82,1,Left Hand,10,Divorced,Other
+171,CHUT,040,m,81,8,Left Hand,19,Single,Combination of previous groups
+172,UEDIN,010,f,88,11,Left Hand,13,Divorced,Black
+173,CHUT,040,f,79,12,Left Hand,18,Widowed,Other
+174,BBRC,020,f,54,7,Right Hand,15,Widowed,Black
+175,UEDIN,010,m,78,12,Left Hand,15,Married or cohabiting,Asian
+176,BBRC,020,m,78,10,Right Hand,14,Married or cohabiting,Asian
+177,VUMC,030,m,55,3,Right Hand,20,Divorced,Caucasian/white
+178,BBRC,020,un,55,7,Right Hand,11,Married or cohabiting,Other
+179,BBRC,020,f,68,8,Right Hand,19,Married or cohabiting,Combination of previous groups
+180,CHUT,040,un,75,6,Left Hand,13,Widowed,Combination of previous groups
+181,BBRC,020,f,66,9,Right Hand,16,Divorced,Other
+182,BBRC,020,m,61,12,Right Hand,10,Divorced,Black
+183,BBRC,020,f,51,10,Right Hand,19,Single,Black
+184,VUMC,030,m,71,12,Right Hand,11,Divorced,Other
+185,BBRC,020,f,83,5,Left Hand,18,Single,Black
+186,CHUT,040,f,76,4,Left Hand,18,Widowed,Caucasian/white
+187,CHUT,040,m,83,10,Right Hand,10,Divorced,Black
+188,VUMC,030,f,53,12,Left Hand,17,Married or cohabiting,Black
+189,BBRC,020,m,89,3,Left Hand,10,Single,Caucasian/white
+190,BBRC,020,u,86,3,Left Hand,10,Widowed,Black
+191,VUMC,030,f,65,10,Right Hand,16,Widowed,Other
+192,CHUT,040,f,51,7,Left Hand,15,Single,Combination of previous groups
+193,BBRC,020,m,86,7,Right Hand,15,Single,Caucasian/white
+194,CHUT,040,m,68,8,Left Hand,13,Widowed,Caucasian/white
+195,CHUT,040,u,77,9,Right Hand,12,Widowed,Asian
+196,BBRC,020,f,54,1,Right Hand,10,Widowed,Asian
+197,UEDIN,010,m,62,11,Left Hand,17,Widowed,Asian
+198,UEDIN,010,m,84,3,Right Hand,14,Married or cohabiting,Asian
+199,BBRC,020,f,65,3,Right Hand,14,Divorced,Black
+200,CHUT,040,m,85,5,Right Hand,18,Married or cohabiting,Caucasian/white
+201,CHUT,040,m,85,6,Right Hand,20,Single,Combination of previous groups
+202,BBRC,020,m,85,3,Right Hand,18,Divorced,Black
+203,UEDIN,010,f,50,7,Right Hand,18,Single,Other
+204,CHUT,040,m,77,2,Left Hand,19,Widowed,Other
+205,VUMC,030,f,67,10,Left Hand,19,Married or cohabiting,Other
+206,UEDIN,010,u,53,8,Left Hand,17,Married or cohabiting,Other
+207,BBRC,020,f,89,7,Left Hand,17,Widowed,Black
+208,BBRC,020,f,81,7,Left Hand,16,Widowed,Caucasian/white
+209,BBRC,020,m,59,6,Right Hand,18,Divorced,Black
+210,CHUT,040,f,83,10,Left Hand,11,Widowed,Caucasian/white
+211,BBRC,020,u,70,7,Right Hand,10,Single,Combination of previous groups
+212,VUMC,030,un,52,4,Left Hand,14,Divorced,Black
+213,CHUT,040,m,69,10,Left Hand,10,Widowed,Combination of previous groups
+214,VUMC,030,m,69,2,Right Hand,15,Married or cohabiting,Other
+215,BBRC,020,f,52,4,Right Hand,17,Widowed,Other
+216,UEDIN,010,f,63,11,Right Hand,11,Single,Combination of previous groups
+217,CHUT,040,m,64,8,Right Hand,16,Widowed,Asian
+218,BBRC,020,m,59,6,Right Hand,20,Married or cohabiting,Combination of previous groups
+219,UEDIN,010,m,54,2,Right Hand,19,Single,Asian
+220,BBRC,020,f,51,11,Left Hand,14,Widowed,Other
+221,UEDIN,010,m,56,8,Left Hand,17,Widowed,Asian
+222,UEDIN,010,f,65,10,Right Hand,19,Widowed,Black
+223,UEDIN,010,f,85,8,Right Hand,17,Widowed,Caucasian/white
+224,VUMC,030,m,72,2,Right Hand,14,Single,Caucasian/white
+225,BBRC,020,un,90,7,Left Hand,18,Widowed,Asian
+226,BBRC,020,f,62,1,Right Hand,17,Single,Other
+227,CHUT,040,f,82,11,Right Hand,17,Divorced,Black
+228,BBRC,020,m,67,4,Right Hand,11,Single,Other
+229,UEDIN,010,f,74,12,Right Hand,14,Divorced,Black
+230,UEDIN,010,f,61,2,Left Hand,15,Widowed,Other
+231,VUMC,030,f,66,2,Right Hand,12,Widowed,Black
+232,BBRC,020,m,85,7,Left Hand,17,Divorced,Asian
+233,BBRC,020,m,61,4,Left Hand,10,Single,Caucasian/white
+234,VUMC,030,f,88,9,Right Hand,13,Married or cohabiting,Other
+235,VUMC,030,f,51,8,Left Hand,16,Single,Black
+236,UEDIN,010,f,88,9,Left Hand,15,Married or cohabiting,Black
+237,VUMC,030,f,63,1,Right Hand,17,Widowed,Combination of previous groups
+238,CHUT,040,f,66,3,Right Hand,10,Divorced,Other
+239,BBRC,020,f,78,9,Left Hand,10,Single,Asian
+240,CHUT,040,m,89,10,Left Hand,15,Married or cohabiting,Combination of previous groups
+241,UEDIN,010,f,83,7,Left Hand,12,Widowed,Combination of previous groups
+242,VUMC,030,m,54,3,Left Hand,14,Widowed,Black
+243,VUMC,030,f,53,6,Left Hand,14,Widowed,Black
+244,BBRC,020,un,89,2,Left Hand,11,Widowed,Combination of previous groups
+245,CHUT,040,m,56,3,Right Hand,20,Divorced,Black
+246,CHUT,040,f,80,11,Right Hand,13,Married or cohabiting,Combination of previous groups
+247,CHUT,040,f,57,4,Left Hand,19,Single,Other
+248,VUMC,030,f,64,4,Left Hand,20,Single,Other
+249,UEDIN,010,m,71,1,Right Hand,14,Divorced,Caucasian/white
+250,UEDIN,010,f,60,2,Right Hand,20,Single,Asian
+251,UEDIN,010,f,67,11,Right Hand,16,Single,Asian
+252,BBRC,020,f,73,12,Left Hand,13,Single,Other
+253,UEDIN,010,m,68,2,Left Hand,20,Widowed,Caucasian/white
+254,VUMC,030,m,52,4,Right Hand,19,Married or cohabiting,Black
+255,BBRC,020,f,90,3,Left Hand,14,Married or cohabiting,Asian
+256,CHUT,040,m,88,9,Right Hand,12,Widowed,Asian
+257,VUMC,030,f,77,9,Left Hand,14,Single,Black
+258,UEDIN,010,m,76,1,Left Hand,17,Divorced,Black
+259,UEDIN,010,m,76,4,Left Hand,12,Single,Black
+260,CHUT,040,u,51,4,Right Hand,12,Widowed,Asian
+261,UEDIN,010,f,59,10,Right Hand,14,Married or cohabiting,Combination of previous groups
+262,UEDIN,010,f,76,10,Right Hand,14,Married or cohabiting,Combination of previous groups
+263,UEDIN,010,f,55,6,Left Hand,19,Single,Caucasian/white
+264,CHUT,040,m,76,9,Right Hand,14,Single,Other
+265,BBRC,020,m,79,7,Left Hand,14,Married or cohabiting,Black
+266,VUMC,030,f,54,10,Right Hand,13,Single,Combination of previous groups
+267,CHUT,040,f,80,11,Right Hand,20,Single,Black
+268,VUMC,030,f,69,5,Left Hand,12,Single,Black
+269,CHUT,040,u,69,6,Right Hand,11,Widowed,Caucasian/white
+270,VUMC,030,m,55,9,Right Hand,13,Widowed,Black
+271,UEDIN,010,m,51,1,Right Hand,18,Single,Other
+272,UEDIN,010,f,75,8,Right Hand,18,Divorced,Combination of previous groups
+273,CHUT,040,m,52,4,Left Hand,16,Married or cohabiting,Black
+274,UEDIN,010,m,65,5,Left Hand,19,Married or cohabiting,Other
+275,BBRC,020,f,69,11,Right Hand,18,Widowed,Combination of previous groups
+276,VUMC,030,f,58,5,Right Hand,18,Widowed,Asian
+277,CHUT,040,m,74,10,Left Hand,20,Single,Other
+278,VUMC,030,f,81,10,Left Hand,15,Married or cohabiting,Asian
+279,UEDIN,010,m,56,3,Left Hand,15,Widowed,Caucasian/white
+280,VUMC,030,m,62,4,Left Hand,20,Widowed,Black
+281,CHUT,040,f,75,12,Left Hand,19,Married or cohabiting,Black
+282,BBRC,020,m,74,5,Left Hand,18,Married or cohabiting,Black
+283,VUMC,030,m,61,8,Left Hand,13,Married or cohabiting,Combination of previous groups
+284,CHUT,040,m,76,2,Right Hand,12,Single,Asian
+285,BBRC,020,m,78,10,Left Hand,12,Single,Combination of previous groups
+286,VUMC,030,f,90,12,Left Hand,11,Single,Other
+287,VUMC,030,f,73,9,Right Hand,20,Divorced,Other
+288,UEDIN,010,f,51,3,Right Hand,19,Divorced,Combination of previous groups
+289,UEDIN,010,m,82,3,Right Hand,15,Single,Asian
+290,UEDIN,010,f,63,4,Left Hand,15,Married or cohabiting,Caucasian/white
+291,VUMC,030,m,71,9,Right Hand,13,Divorced,Combination of previous groups
+292,BBRC,020,m,64,11,Left Hand,15,Widowed,Caucasian/white
+293,UEDIN,010,m,84,10,Left Hand,13,Single,Combination of previous groups
+294,VUMC,030,f,68,8,Left Hand,19,Divorced,Asian
+295,CHUT,040,f,78,4,Left Hand,12,Married or cohabiting,Caucasian/white
+296,CHUT,040,m,66,5,Left Hand,17,Widowed,Asian
+297,VUMC,030,f,74,8,Left Hand,12,Widowed,Other
+298,UEDIN,010,m,87,3,Right Hand,10,Married or cohabiting,Caucasian/white
+299,UEDIN,010,f,87,9,Left Hand,12,Married or cohabiting,Caucasian/white
+300,CHUT,040,m,89,9,Left Hand,10,Divorced,Other
+301,UEDIN,010,f,77,1,Right Hand,13,Single,Combination of previous groups
+302,CHUT,040,un,68,9,Right Hand,13,Widowed,Caucasian/white
+303,BBRC,020,f,61,3,Left Hand,20,Single,Caucasian/white
+304,CHUT,040,m,58,7,Right Hand,11,Single,Asian
+305,UEDIN,010,m,76,8,Right Hand,15,Divorced,Black
+306,UEDIN,010,f,55,5,Right Hand,20,Widowed,Combination of previous groups
+307,BBRC,020,f,51,6,Right Hand,19,Married or cohabiting,Other
+308,VUMC,030,f,72,4,Right Hand,10,Single,Combination of previous groups
+309,UEDIN,010,u,81,9,Left Hand,13,Divorced,Black
+310,BBRC,020,f,90,1,Left Hand,13,Divorced,Other
+311,BBRC,020,m,89,1,Right Hand,17,Married or cohabiting,Black
+312,BBRC,020,f,62,5,Right Hand,15,Married or cohabiting,Other
+313,BBRC,020,m,60,11,Left Hand,14,Single,Black
+314,CHUT,040,m,55,11,Right Hand,20,Divorced,Asian
+315,VUMC,030,m,50,10,Left Hand,20,Divorced,Other
+316,BBRC,020,m,68,1,Left Hand,15,Married or cohabiting,Asian
+317,VUMC,030,m,70,8,Left Hand,11,Single,Caucasian/white
+318,BBRC,020,f,57,10,Right Hand,19,Single,Caucasian/white
+319,UEDIN,010,f,80,5,Left Hand,11,Divorced,Caucasian/white
+320,UEDIN,010,f,56,8,Left Hand,15,Married or cohabiting,Asian
+321,VUMC,030,m,61,6,Left Hand,17,Widowed,Caucasian/white
+322,VUMC,030,m,90,5,Right Hand,17,Single,Caucasian/white
+323,UEDIN,010,f,64,11,Right Hand,18,Divorced,Asian
+324,BBRC,020,u,58,5,Right Hand,14,Widowed,Black
+325,UEDIN,010,f,80,12,Right Hand,10,Single,Caucasian/white
+326,BBRC,020,f,80,9,Right Hand,14,Single,Black
+327,UEDIN,010,f,64,2,Right Hand,20,Widowed,Caucasian/white
+328,BBRC,020,f,75,4,Left Hand,13,Divorced,Combination of previous groups
+329,CHUT,040,u,70,11,Left Hand,11,Single,Other
+330,UEDIN,010,m,63,3,Left Hand,14,Divorced,Other
+331,VUMC,030,f,90,4,Left Hand,20,Widowed,Black
+332,CHUT,040,m,50,11,Left Hand,15,Divorced,Other
+333,BBRC,020,f,57,12,Left Hand,20,Single,Other
+334,VUMC,030,u,60,6,Left Hand,20,Single,Caucasian/white
+335,BBRC,020,f,51,5,Right Hand,13,Widowed,Other
+336,BBRC,020,f,76,12,Left Hand,19,Divorced,Asian
+337,BBRC,020,m,52,12,Left Hand,20,Married or cohabiting,Asian
+338,CHUT,040,m,73,11,Right Hand,17,Divorced,Other
+339,CHUT,040,f,77,4,Left Hand,18,Married or cohabiting,Other
+340,VUMC,030,f,64,1,Right Hand,12,Single,Combination of previous groups
+341,UEDIN,010,f,84,5,Right Hand,20,Single,Combination of previous groups
+342,VUMC,030,m,90,10,Left Hand,13,Widowed,Combination of previous groups
+343,UEDIN,010,f,58,1,Right Hand,13,Widowed,Caucasian/white
+344,VUMC,030,f,83,10,Right Hand,18,Single,Black
+345,BBRC,020,m,55,3,Left Hand,11,Single,Asian
+346,UEDIN,010,f,74,8,Left Hand,10,Widowed,Asian
+347,BBRC,020,m,76,2,Left Hand,13,Single,Caucasian/white
+348,CHUT,040,m,54,4,Left Hand,14,Single,Asian
+349,BBRC,020,f,76,5,Left Hand,19,Single,Other
+350,BBRC,020,f,80,9,Right Hand,18,Married or cohabiting,Combination of previous groups
+351,UEDIN,010,m,72,9,Left Hand,11,Divorced,Caucasian/white
+352,VUMC,030,f,69,3,Left Hand,18,Widowed,Black
+353,CHUT,040,m,58,9,Right Hand,19,Married or cohabiting,Asian
+354,BBRC,020,m,60,2,Right Hand,13,Divorced,Caucasian/white
+355,BBRC,020,f,78,2,Right Hand,14,Widowed,Other
+356,UEDIN,010,m,52,4,Left Hand,19,Widowed,Black
+357,VUMC,030,m,81,8,Left Hand,11,Married or cohabiting,Caucasian/white
+358,VUMC,030,m,58,12,Left Hand,13,Married or cohabiting,Black
+359,BBRC,020,f,90,10,Right Hand,11,Single,Black
+360,VUMC,030,m,60,4,Left Hand,20,Widowed,Combination of previous groups
+361,UEDIN,010,f,83,3,Right Hand,12,Married or cohabiting,Asian
+362,VUMC,030,f,77,6,Right Hand,11,Married or cohabiting,Asian
+363,VUMC,030,m,72,8,Right Hand,13,Widowed,Asian
+364,CHUT,040,f,57,4,Right Hand,13,Widowed,Combination of previous groups
+365,UEDIN,010,f,52,12,Right Hand,16,Widowed,Caucasian/white
+366,CHUT,040,m,66,9,Right Hand,14,Divorced,Black
+367,BBRC,020,m,64,2,Left Hand,14,Single,Other
+368,BBRC,020,m,50,11,Left Hand,14,Married or cohabiting,Combination of previous groups
+369,UEDIN,010,f,84,7,Right Hand,19,Married or cohabiting,Black
+370,BBRC,020,m,79,4,Left Hand,20,Married or cohabiting,Caucasian/white
+371,VUMC,030,m,61,2,Left Hand,13,Divorced,Combination of previous groups
+372,UEDIN,010,f,87,9,Left Hand,15,Single,Black
+373,BBRC,020,m,66,8,Left Hand,12,Divorced,Black
+374,VUMC,030,m,76,8,Right Hand,12,Single,Other
+375,UEDIN,010,f,52,5,Left Hand,20,Widowed,Asian
+376,CHUT,040,m,81,1,Right Hand,18,Single,Caucasian/white
+377,UEDIN,010,m,88,12,Left Hand,15,Widowed,Combination of previous groups
+378,BBRC,020,m,51,1,Right Hand,19,Married or cohabiting,Other
+379,VUMC,030,m,56,10,Right Hand,14,Divorced,Asian
+380,UEDIN,010,un,63,7,Right Hand,13,Single,Black
+381,BBRC,020,m,74,12,Right Hand,15,Divorced,Asian
+382,CHUT,040,f,57,6,Right Hand,19,Widowed,Combination of previous groups
+383,BBRC,020,m,67,4,Left Hand,16,Married or cohabiting,Caucasian/white
+384,VUMC,030,m,56,8,Left Hand,14,Single,Combination of previous groups
+385,VUMC,030,f,61,7,Left Hand,14,Married or cohabiting,Other
+386,BBRC,020,m,69,11,Left Hand,17,Single,Black
+387,CHUT,040,m,59,12,Left Hand,15,Widowed,Combination of previous groups
+388,UEDIN,010,f,68,5,Right Hand,19,Married or cohabiting,Combination of previous groups
+389,VUMC,030,m,81,5,Right Hand,10,Divorced,Black
+390,BBRC,020,f,62,5,Right Hand,18,Single,Other
+391,UEDIN,010,m,80,6,Left Hand,10,Single,Caucasian/white
+392,UEDIN,010,f,67,3,Right Hand,16,Widowed,Other
+393,UEDIN,010,m,77,10,Left Hand,14,Married or cohabiting,Combination of previous groups
+394,BBRC,020,f,63,1,Right Hand,14,Widowed,Asian
+395,VUMC,030,m,69,1,Right Hand,20,Widowed,Combination of previous groups
+396,BBRC,020,f,78,10,Left Hand,19,Married or cohabiting,Caucasian/white
+397,VUMC,030,m,73,1,Right Hand,11,Single,Black
+398,BBRC,020,m,70,11,Left Hand,17,Widowed,Caucasian/white
+399,VUMC,030,f,87,10,Right Hand,20,Single,Asian
+400,VUMC,030,m,87,8,Right Hand,11,Divorced,Black
+401,CHUT,040,f,90,4,Right Hand,13,Widowed,Asian
+402,CHUT,040,m,55,11,Left Hand,20,Single,Other
+403,CHUT,040,f,56,4,Left Hand,14,Divorced,Caucasian/white
+404,UEDIN,010,m,53,4,Right Hand,12,Divorced,Other
+405,CHUT,040,m,75,10,Left Hand,19,Divorced,Black
+406,BBRC,020,m,82,8,Left Hand,19,Married or cohabiting,Caucasian/white
+407,CHUT,040,m,75,2,Left Hand,16,Married or cohabiting,Asian
+408,UEDIN,010,f,52,6,Right Hand,19,Married or cohabiting,Asian
+409,CHUT,040,m,81,1,Right Hand,17,Married or cohabiting,Black
+410,VUMC,030,m,78,9,Right Hand,17,Single,Caucasian/white
+411,BBRC,020,m,81,3,Left Hand,19,Widowed,Other
+412,UEDIN,010,m,83,12,Right Hand,10,Single,Other
+413,VUMC,030,m,74,9,Right Hand,20,Divorced,Other
+414,BBRC,020,m,53,6,Right Hand,20,Married or cohabiting,Caucasian/white
+415,CHUT,040,m,89,1,Right Hand,18,Single,Combination of previous groups
+416,UEDIN,010,f,51,5,Left Hand,10,Divorced,Asian
+417,UEDIN,010,f,61,4,Right Hand,13,Widowed,Other
+418,CHUT,040,m,79,2,Left Hand,15,Divorced,Black
+419,UEDIN,010,m,59,2,Left Hand,11,Single,Asian
+420,CHUT,040,f,77,4,Right Hand,15,Single,Other
+421,BBRC,020,m,73,5,Left Hand,16,Divorced,Caucasian/white
+422,BBRC,020,f,60,4,Right Hand,19,Divorced,Asian
+423,CHUT,040,un,56,8,Left Hand,11,Divorced,Black
+424,CHUT,040,f,84,9,Right Hand,14,Married or cohabiting,Caucasian/white
+425,UEDIN,010,f,71,4,Right Hand,20,Widowed,Combination of previous groups
+426,VUMC,030,un,57,5,Left Hand,10,Married or cohabiting,Other
+427,CHUT,040,m,74,12,Right Hand,17,Single,Black
+428,UEDIN,010,m,56,1,Left Hand,17,Married or cohabiting,Caucasian/white
+429,VUMC,030,f,68,7,Right Hand,18,Single,Black
+430,CHUT,040,f,84,5,Right Hand,20,Widowed,Other
+431,BBRC,020,m,72,7,Right Hand,15,Married or cohabiting,Caucasian/white
+432,VUMC,030,u,50,4,Left Hand,15,Single,Combination of previous groups
+433,UEDIN,010,u,67,3,Right Hand,16,Divorced,Other
+434,BBRC,020,f,84,5,Left Hand,12,Single,Black
+435,BBRC,020,m,83,4,Right Hand,18,Divorced,Combination of previous groups
+436,BBRC,020,f,65,10,Right Hand,11,Divorced,Other
+437,BBRC,020,m,81,10,Right Hand,17,Divorced,Caucasian/white
+438,CHUT,040,un,56,1,Right Hand,14,Married or cohabiting,Caucasian/white
+439,VUMC,030,m,50,11,Right Hand,20,Widowed,Black
+440,UEDIN,010,m,84,7,Left Hand,11,Single,Other
+441,VUMC,030,f,76,9,Left Hand,13,Divorced,Other
+442,UEDIN,010,m,53,9,Right Hand,16,Married or cohabiting,Caucasian/white
+443,CHUT,040,u,78,12,Left Hand,16,Single,Caucasian/white
+444,VUMC,030,f,78,8,Left Hand,14,Widowed,Combination of previous groups
+445,UEDIN,010,m,86,1,Right Hand,14,Divorced,Black
+446,BBRC,020,f,53,5,Right Hand,10,Married or cohabiting,Other
+447,BBRC,020,f,55,1,Left Hand,20,Divorced,Combination of previous groups
+448,VUMC,030,f,63,6,Right Hand,20,Married or cohabiting,Black
+449,VUMC,030,f,63,6,Left Hand,16,Widowed,Other
+450,CHUT,040,f,56,8,Left Hand,15,Married or cohabiting,Asian
+451,BBRC,020,u,83,2,Right Hand,17,Married or cohabiting,Caucasian/white
+452,UEDIN,010,f,73,5,Left Hand,20,Married or cohabiting,Other
+453,CHUT,040,f,79,4,Right Hand,17,Single,Asian
+454,BBRC,020,m,85,8,Right Hand,17,Divorced,Combination of previous groups
+455,UEDIN,010,m,63,3,Left Hand,15,Divorced,Black
+456,VUMC,030,u,62,4,Left Hand,14,Divorced,Combination of previous groups
+457,VUMC,030,m,76,9,Left Hand,19,Divorced,Other
+458,BBRC,020,m,54,7,Left Hand,20,Widowed,Other
+459,VUMC,030,m,56,9,Right Hand,17,Divorced,Combination of previous groups
+460,VUMC,030,m,90,1,Left Hand,14,Single,Other
+461,BBRC,020,f,76,9,Left Hand,12,Single,Other
+462,UEDIN,010,f,70,8,Right Hand,13,Divorced,Asian
+463,CHUT,040,f,60,7,Left Hand,14,Divorced,Caucasian/white
+464,BBRC,020,m,71,2,Right Hand,18,Divorced,Other
+465,BBRC,020,f,53,11,Right Hand,10,Single,Other
+466,VUMC,030,f,51,6,Left Hand,16,Divorced,Asian
+467,UEDIN,010,m,69,2,Left Hand,13,Married or cohabiting,Combination of previous groups
+468,BBRC,020,m,67,8,Left Hand,13,Divorced,Black
+469,VUMC,030,m,73,10,Left Hand,17,Single,Black
+470,BBRC,020,m,83,9,Left Hand,19,Divorced,Caucasian/white
+471,UEDIN,010,f,84,10,Left Hand,18,Divorced,Other
+472,BBRC,020,m,70,10,Right Hand,14,Married or cohabiting,Black
+473,BBRC,020,f,76,4,Left Hand,16,Single,Black
+474,UEDIN,010,f,90,5,Right Hand,18,Widowed,Other
+475,UEDIN,010,m,51,7,Right Hand,14,Single,Combination of previous groups
+476,BBRC,020,f,78,2,Left Hand,15,Single,Other
+477,VUMC,030,f,82,4,Left Hand,13,Married or cohabiting,Other
+478,VUMC,030,m,72,2,Left Hand,12,Divorced,Combination of previous groups
+479,BBRC,020,f,61,3,Right Hand,17,Single,Caucasian/white
+480,CHUT,040,f,75,3,Right Hand,12,Married or cohabiting,Black
+481,BBRC,020,m,77,4,Right Hand,13,Divorced,Combination of previous groups
+482,BBRC,020,un,86,8,Right Hand,16,Widowed,Other
+483,CHUT,040,un,77,3,Right Hand,20,Widowed,Asian
+484,UEDIN,010,f,82,4,Left Hand,20,Married or cohabiting,Black
+485,BBRC,020,m,57,10,Right Hand,18,Single,Other
+486,UEDIN,010,f,57,10,Right Hand,11,Married or cohabiting,Other
+487,VUMC,030,m,81,7,Left Hand,17,Single,Combination of previous groups
+488,UEDIN,010,un,79,9,Left Hand,10,Married or cohabiting,Black
+489,BBRC,020,m,72,1,Left Hand,19,Single,Other
+490,CHUT,040,f,52,11,Right Hand,19,Single,Caucasian/white
+491,BBRC,020,f,63,11,Right Hand,18,Single,Other
+492,VUMC,030,m,70,3,Left Hand,17,Single,Other
+493,CHUT,040,m,50,12,Left Hand,19,Married or cohabiting,Black
+494,VUMC,030,m,78,8,Right Hand,15,Single,Caucasian/white
+495,BBRC,020,m,72,10,Left Hand,12,Divorced,Combination of previous groups
+496,CHUT,040,f,90,12,Left Hand,12,Widowed,Other
+497,UEDIN,010,f,78,11,Left Hand,18,Single,Other
+498,BBRC,020,f,88,10,Right Hand,20,Single,Caucasian/white
+499,BBRC,020,m,82,5,Right Hand,19,Married or cohabiting,Black
+500,VUMC,030,m,79,4,Right Hand,14,Married or cohabiting,Combination of previous groups
+501,VUMC,030,m,72,8,Left Hand,19,Single,Combination of previous groups
+502,UEDIN,010,un,84,3,Left Hand,20,Married or cohabiting,Other
+503,BBRC,020,m,50,1,Right Hand,13,Single,Black
+504,BBRC,020,u,63,7,Right Hand,14,Divorced,Other
+505,UEDIN,010,m,50,9,Left Hand,14,Divorced,Other
+506,CHUT,040,f,55,11,Right Hand,15,Widowed,Asian
+507,VUMC,030,f,61,8,Right Hand,13,Divorced,Black
+508,BBRC,020,m,78,10,Right Hand,16,Single,Combination of previous groups
+509,VUMC,030,m,77,8,Right Hand,13,Single,Caucasian/white
+510,UEDIN,010,m,86,8,Left Hand,16,Married or cohabiting,Asian
+511,BBRC,020,f,85,2,Left Hand,13,Married or cohabiting,Other
+512,CHUT,040,m,61,1,Right Hand,11,Divorced,Black
+513,BBRC,020,f,85,7,Right Hand,18,Married or cohabiting,Other
+514,VUMC,030,m,72,6,Right Hand,14,Divorced,Combination of previous groups
+515,UEDIN,010,u,60,9,Right Hand,19,Single,Caucasian/white
+516,UEDIN,010,m,81,6,Right Hand,11,Divorced,Black
+517,BBRC,020,f,71,8,Left Hand,12,Single,Caucasian/white
+518,UEDIN,010,m,59,7,Left Hand,18,Single,Other
+519,CHUT,040,f,81,12,Right Hand,20,Divorced,Other
+520,BBRC,020,un,83,8,Right Hand,14,Divorced,Other
+521,UEDIN,010,f,70,4,Right Hand,15,Single,Combination of previous groups
+522,VUMC,030,m,57,6,Right Hand,10,Widowed,Other
+523,UEDIN,010,f,88,4,Right Hand,16,Divorced,Caucasian/white
+524,CHUT,040,f,73,11,Right Hand,16,Widowed,Other
+525,VUMC,030,f,84,12,Left Hand,17,Divorced,Black
+526,VUMC,030,m,83,1,Right Hand,20,Widowed,Caucasian/white
+527,UEDIN,010,f,72,3,Right Hand,19,Divorced,Asian
+528,BBRC,020,f,84,7,Left Hand,11,Married or cohabiting,Black
+529,UEDIN,010,f,80,4,Left Hand,11,Widowed,Asian
+530,VUMC,030,f,84,6,Right Hand,12,Widowed,Black
+531,UEDIN,010,m,67,11,Right Hand,16,Single,Other
+532,BBRC,020,f,54,4,Left Hand,10,Married or cohabiting,Caucasian/white
+533,BBRC,020,m,71,9,Left Hand,19,Married or cohabiting,Caucasian/white
+534,CHUT,040,f,67,4,Right Hand,16,Widowed,Asian
+535,BBRC,020,m,65,1,Right Hand,16,Married or cohabiting,Combination of previous groups
+536,VUMC,030,un,63,5,Left Hand,16,Single,Black
+537,CHUT,040,m,83,3,Right Hand,16,Divorced,Caucasian/white
+538,UEDIN,010,m,84,4,Right Hand,11,Divorced,Other
+539,UEDIN,010,f,77,3,Left Hand,20,Widowed,Caucasian/white
+540,CHUT,040,f,71,2,Right Hand,15,Divorced,Combination of previous groups
+541,UEDIN,010,u,75,7,Left Hand,19,Widowed,Caucasian/white
+542,VUMC,030,f,74,10,Right Hand,18,Widowed,Caucasian/white
+543,BBRC,020,m,64,9,Right Hand,16,Divorced,Caucasian/white
+544,BBRC,020,m,63,7,Left Hand,18,Divorced,Caucasian/white
+545,VUMC,030,m,59,7,Right Hand,14,Married or cohabiting,Other
+546,VUMC,030,f,75,4,Right Hand,10,Married or cohabiting,Other
+547,VUMC,030,m,52,6,Right Hand,10,Single,Caucasian/white
+548,BBRC,020,f,68,11,Left Hand,19,Divorced,Combination of previous groups
+549,BBRC,020,f,87,5,Left Hand,20,Widowed,Other
+550,UEDIN,010,f,89,7,Left Hand,10,Single,Combination of previous groups
+551,CHUT,040,m,82,6,Left Hand,10,Divorced,Other
+552,VUMC,030,f,80,12,Left Hand,12,Single,Asian
+553,CHUT,040,f,85,2,Left Hand,20,Married or cohabiting,Caucasian/white
+554,UEDIN,010,f,82,12,Right Hand,15,Single,Asian
+555,UEDIN,010,f,83,2,Right Hand,14,Single,Black
+556,BBRC,020,f,88,7,Right Hand,18,Single,Black
+557,UEDIN,010,m,86,4,Right Hand,19,Married or cohabiting,Combination of previous groups
+558,BBRC,020,m,72,6,Left Hand,11,Divorced,Black
+559,CHUT,040,f,86,6,Right Hand,15,Married or cohabiting,Combination of previous groups
+560,VUMC,030,f,69,4,Left Hand,20,Divorced,Combination of previous groups
+561,UEDIN,010,m,50,12,Right Hand,12,Single,Other
+562,CHUT,040,un,61,2,Right Hand,11,Married or cohabiting,Combination of previous groups
+563,VUMC,030,f,63,1,Left Hand,14,Married or cohabiting,Caucasian/white
+564,CHUT,040,m,80,11,Right Hand,19,Married or cohabiting,Asian
+565,BBRC,020,m,53,11,Right Hand,14,Single,Black
+566,CHUT,040,f,56,11,Right Hand,10,Married or cohabiting,Combination of previous groups
+567,BBRC,020,m,69,1,Right Hand,19,Married or cohabiting,Asian
+568,BBRC,020,un,64,10,Left Hand,14,Single,Black
+569,VUMC,030,f,57,6,Left Hand,11,Widowed,Caucasian/white
+570,VUMC,030,m,83,1,Left Hand,15,Married or cohabiting,Black
+571,VUMC,030,m,86,11,Left Hand,13,Widowed,Other
+572,BBRC,020,un,64,12,Right Hand,13,Married or cohabiting,Black
+573,UEDIN,010,m,68,7,Right Hand,12,Divorced,Combination of previous groups
+574,VUMC,030,m,67,8,Right Hand,16,Widowed,Caucasian/white
+575,BBRC,020,f,54,6,Right Hand,17,Divorced,Other
+576,CHUT,040,f,81,3,Right Hand,16,Married or cohabiting,Asian
+577,BBRC,020,m,77,4,Left Hand,12,Widowed,Black
+578,UEDIN,010,m,57,3,Right Hand,11,Widowed,Black
+579,CHUT,040,un,82,6,Left Hand,10,Widowed,Combination of previous groups
+580,VUMC,030,m,74,11,Left Hand,19,Widowed,Black
+581,UEDIN,010,f,70,3,Left Hand,20,Widowed,Caucasian/white
+582,BBRC,020,m,79,10,Right Hand,17,Widowed,Other
+583,VUMC,030,f,60,2,Right Hand,15,Married or cohabiting,Black
+584,UEDIN,010,m,55,10,Left Hand,13,Married or cohabiting,Asian
+585,VUMC,030,f,63,2,Right Hand,11,Widowed,Asian
+586,BBRC,020,m,59,11,Right Hand,13,Divorced,Caucasian/white
+587,UEDIN,010,f,58,12,Right Hand,10,Divorced,Other
+588,BBRC,020,m,54,3,Left Hand,17,Divorced,Combination of previous groups
+589,BBRC,020,f,67,11,Left Hand,16,Widowed,Asian
+590,UEDIN,010,f,84,4,Left Hand,18,Widowed,Combination of previous groups
+591,VUMC,030,m,82,2,Left Hand,10,Divorced,Black
+592,UEDIN,010,f,50,11,Right Hand,19,Divorced,Black
+593,BBRC,020,m,90,3,Right Hand,17,Single,Other
+594,BBRC,020,m,75,4,Left Hand,19,Widowed,Black
+595,BBRC,020,m,77,1,Left Hand,13,Single,Black
+596,VUMC,030,f,88,5,Right Hand,11,Widowed,Caucasian/white
+597,UEDIN,010,f,54,6,Left Hand,12,Single,Other
+598,VUMC,030,m,61,8,Right Hand,10,Widowed,Caucasian/white
+599,UEDIN,010,m,66,10,Right Hand,15,Divorced,Other
+600,VUMC,030,f,50,6,Left Hand,10,Single,Asian
+601,CHUT,040,f,52,2,Left Hand,18,Single,Asian
+602,CHUT,040,f,57,6,Left Hand,15,Widowed,Other
+603,BBRC,020,f,59,8,Left Hand,14,Married or cohabiting,Caucasian/white
+604,BBRC,020,m,74,4,Right Hand,20,Married or cohabiting,Other
+605,CHUT,040,f,61,1,Left Hand,20,Single,Combination of previous groups
+606,VUMC,030,f,71,10,Right Hand,10,Single,Caucasian/white
+607,CHUT,040,m,67,5,Left Hand,17,Married or cohabiting,Other
+608,CHUT,040,un,88,12,Right Hand,12,Divorced,Caucasian/white
+609,UEDIN,010,m,88,7,Left Hand,18,Married or cohabiting,Asian
+610,VUMC,030,f,83,10,Right Hand,11,Single,Black
+611,CHUT,040,m,68,2,Left Hand,10,Widowed,Caucasian/white
+612,CHUT,040,m,71,2,Right Hand,15,Widowed,Black
+613,CHUT,040,m,64,12,Right Hand,10,Widowed,Other
+614,CHUT,040,un,79,10,Right Hand,16,Single,Asian
+615,VUMC,030,f,61,12,Right Hand,15,Single,Other
+616,VUMC,030,f,61,2,Right Hand,12,Married or cohabiting,Other
+617,CHUT,040,u,58,1,Right Hand,15,Single,Combination of previous groups
+618,CHUT,040,f,83,11,Left Hand,17,Single,Black
+619,UEDIN,010,f,70,3,Right Hand,12,Married or cohabiting,Combination of previous groups
+620,VUMC,030,u,74,8,Right Hand,19,Divorced,Asian
+621,VUMC,030,m,75,8,Left Hand,11,Married or cohabiting,Caucasian/white
+622,BBRC,020,un,89,6,Right Hand,12,Divorced,Caucasian/white
+623,UEDIN,010,un,50,10,Right Hand,12,Widowed,Black
+624,BBRC,020,m,64,4,Right Hand,13,Widowed,Asian
+625,VUMC,030,f,74,5,Left Hand,18,Widowed,Caucasian/white
+626,VUMC,030,f,55,6,Left Hand,17,Married or cohabiting,Black
+627,UEDIN,010,f,54,11,Left Hand,15,Single,Black
+628,UEDIN,010,m,86,5,Right Hand,14,Married or cohabiting,Black
+629,BBRC,020,m,62,6,Right Hand,19,Widowed,Combination of previous groups
+630,VUMC,030,m,72,9,Left Hand,14,Single,Black
+631,BBRC,020,m,54,5,Left Hand,18,Widowed,Asian
+632,CHUT,040,m,81,6,Left Hand,11,Divorced,Other
+633,UEDIN,010,f,75,3,Left Hand,19,Divorced,Asian
+634,CHUT,040,m,64,6,Right Hand,19,Widowed,Combination of previous groups
+635,BBRC,020,f,75,5,Right Hand,19,Widowed,Combination of previous groups
+636,VUMC,030,f,54,6,Right Hand,13,Widowed,Asian
+637,UEDIN,010,m,74,9,Left Hand,13,Single,Caucasian/white
+638,VUMC,030,m,78,7,Left Hand,11,Married or cohabiting,Other
+639,BBRC,020,un,90,4,Left Hand,20,Divorced,Combination of previous groups
+640,VUMC,030,u,69,4,Right Hand,18,Single,Caucasian/white
+641,BBRC,020,m,88,5,Right Hand,12,Married or cohabiting,Combination of previous groups
+642,VUMC,030,f,60,2,Right Hand,13,Divorced,Caucasian/white
+643,CHUT,040,m,73,6,Right Hand,18,Divorced,Caucasian/white
+644,UEDIN,010,m,61,5,Right Hand,19,Married or cohabiting,Asian
+645,UEDIN,010,m,82,3,Left Hand,18,Single,Black
+646,VUMC,030,m,90,10,Left Hand,13,Married or cohabiting,Asian
+647,BBRC,020,m,68,1,Left Hand,16,Widowed,Combination of previous groups
+648,VUMC,030,u,85,4,Left Hand,18,Divorced,Combination of previous groups
+649,BBRC,020,m,73,10,Left Hand,16,Single,Combination of previous groups
+650,BBRC,020,m,90,7,Right Hand,15,Widowed,Combination of previous groups
+651,UEDIN,010,f,76,3,Right Hand,16,Widowed,Black
+652,UEDIN,010,m,59,5,Left Hand,16,Divorced,Asian
+653,BBRC,020,m,76,4,Left Hand,17,Single,Black
+654,BBRC,020,un,81,7,Right Hand,10,Married or cohabiting,Asian
+655,BBRC,020,m,78,5,Left Hand,19,Widowed,Combination of previous groups
+656,VUMC,030,f,67,10,Right Hand,19,Divorced,Caucasian/white
+657,BBRC,020,f,72,11,Left Hand,16,Married or cohabiting,Combination of previous groups
+658,UEDIN,010,m,76,7,Left Hand,11,Divorced,Other
+659,CHUT,040,f,56,8,Left Hand,11,Married or cohabiting,Other
+660,CHUT,040,un,59,12,Right Hand,15,Divorced,Other
+661,CHUT,040,f,55,4,Left Hand,20,Single,Black
+662,UEDIN,010,un,71,7,Left Hand,14,Married or cohabiting,Asian
+663,BBRC,020,f,52,7,Right Hand,18,Married or cohabiting,Combination of previous groups
+664,VUMC,030,f,58,8,Left Hand,17,Widowed,Asian
+665,UEDIN,010,f,61,6,Left Hand,13,Single,Other
+666,UEDIN,010,m,85,8,Left Hand,13,Married or cohabiting,Asian
+667,VUMC,030,f,57,8,Left Hand,14,Divorced,Caucasian/white
+668,CHUT,040,m,58,10,Left Hand,12,Married or cohabiting,Asian
+669,UEDIN,010,m,56,9,Right Hand,20,Single,Caucasian/white
+670,BBRC,020,f,81,5,Left Hand,10,Married or cohabiting,Black
+671,BBRC,020,m,54,12,Left Hand,19,Married or cohabiting,Other
+672,BBRC,020,m,56,6,Right Hand,14,Married or cohabiting,Caucasian/white
+673,UEDIN,010,f,62,9,Left Hand,18,Divorced,Combination of previous groups
+674,CHUT,040,m,74,4,Right Hand,15,Single,Asian
+675,BBRC,020,m,67,4,Left Hand,20,Married or cohabiting,Other
+676,VUMC,030,m,60,10,Right Hand,11,Married or cohabiting,Black
+677,CHUT,040,f,74,8,Left Hand,16,Divorced,Black
+678,UEDIN,010,m,65,7,Right Hand,17,Single,Combination of previous groups
+679,CHUT,040,m,84,9,Right Hand,13,Married or cohabiting,Other
+680,VUMC,030,u,50,2,Left Hand,16,Divorced,Combination of previous groups
+681,CHUT,040,f,71,7,Right Hand,13,Single,Combination of previous groups
+682,UEDIN,010,f,64,5,Left Hand,12,Divorced,Asian
+683,UEDIN,010,m,74,3,Left Hand,14,Single,Other
+684,CHUT,040,m,90,12,Right Hand,17,Widowed,Other
+685,UEDIN,010,m,85,6,Left Hand,20,Widowed,Other
+686,UEDIN,010,m,74,4,Right Hand,15,Divorced,Asian
+687,VUMC,030,m,79,3,Right Hand,16,Widowed,Caucasian/white
+688,UEDIN,010,m,80,12,Right Hand,12,Divorced,Caucasian/white
+689,BBRC,020,f,56,10,Right Hand,10,Married or cohabiting,Black
+690,BBRC,020,f,52,3,Right Hand,16,Widowed,Black
+691,CHUT,040,m,56,8,Left Hand,16,Married or cohabiting,Asian
+692,BBRC,020,m,69,9,Right Hand,12,Single,Black
+693,VUMC,030,m,85,8,Left Hand,10,Widowed,Black
+694,UEDIN,010,f,58,2,Right Hand,12,Single,Caucasian/white
+695,VUMC,030,m,53,6,Left Hand,18,Single,Other
+696,CHUT,040,f,65,11,Left Hand,10,Married or cohabiting,Asian
+697,UEDIN,010,f,80,12,Left Hand,11,Divorced,Black
+698,BBRC,020,m,85,4,Left Hand,10,Widowed,Black
+699,VUMC,030,f,77,5,Left Hand,18,Married or cohabiting,Asian
+700,CHUT,040,m,88,12,Right Hand,20,Married or cohabiting,Other
+701,BBRC,020,m,57,2,Left Hand,15,Divorced,Combination of previous groups
+702,VUMC,030,m,54,10,Left Hand,11,Widowed,Caucasian/white
+703,VUMC,030,f,70,9,Left Hand,18,Widowed,Combination of previous groups
+704,VUMC,030,f,77,2,Right Hand,17,Divorced,Other
+705,UEDIN,010,m,63,11,Left Hand,11,Widowed,Caucasian/white
+706,BBRC,020,f,83,6,Right Hand,12,Widowed,Asian
+707,VUMC,030,m,80,7,Right Hand,10,Married or cohabiting,Black
+708,CHUT,040,m,88,1,Left Hand,13,Widowed,Other
+709,CHUT,040,f,62,7,Left Hand,19,Married or cohabiting,Asian
+710,VUMC,030,f,58,2,Right Hand,13,Widowed,Asian
+711,VUMC,030,m,64,7,Left Hand,11,Divorced,Asian
+712,BBRC,020,f,87,5,Left Hand,10,Single,Asian
+713,CHUT,040,f,51,5,Right Hand,19,Married or cohabiting,Combination of previous groups
+714,VUMC,030,f,63,5,Right Hand,19,Widowed,Combination of previous groups
+715,CHUT,040,m,66,2,Left Hand,20,Widowed,Combination of previous groups
+716,VUMC,030,m,76,8,Left Hand,16,Single,Caucasian/white
+717,UEDIN,010,f,69,3,Left Hand,10,Married or cohabiting,Black
+718,CHUT,040,m,64,6,Left Hand,20,Widowed,Asian
+719,VUMC,030,m,60,7,Right Hand,11,Married or cohabiting,Asian
+720,CHUT,040,f,70,11,Right Hand,19,Divorced,Caucasian/white
+721,CHUT,040,f,80,8,Right Hand,16,Widowed,Caucasian/white
+722,CHUT,040,f,79,8,Left Hand,15,Widowed,Black
+723,CHUT,040,f,55,9,Right Hand,12,Married or cohabiting,Combination of previous groups
+724,VUMC,030,m,77,1,Left Hand,20,Married or cohabiting,Other
+725,UEDIN,010,f,59,12,Left Hand,15,Married or cohabiting,Combination of previous groups
+726,CHUT,040,f,84,4,Left Hand,17,Married or cohabiting,Other
+727,VUMC,030,f,60,5,Left Hand,11,Divorced,Black
+728,UEDIN,010,f,90,6,Right Hand,10,Married or cohabiting,Combination of previous groups
+729,VUMC,030,f,69,1,Left Hand,20,Single,Combination of previous groups
+730,BBRC,020,m,63,8,Right Hand,14,Single,Combination of previous groups
+731,VUMC,030,f,80,1,Right Hand,13,Divorced,Asian
+732,UEDIN,010,f,54,8,Left Hand,13,Married or cohabiting,Black
+733,UEDIN,010,u,87,5,Right Hand,10,Widowed,Other
+734,VUMC,030,m,81,9,Right Hand,15,Single,Other
+735,CHUT,040,f,57,5,Left Hand,20,Married or cohabiting,Combination of previous groups
+736,CHUT,040,m,75,9,Right Hand,20,Widowed,Caucasian/white
+737,BBRC,020,m,70,7,Left Hand,14,Married or cohabiting,Caucasian/white
+738,VUMC,030,f,58,5,Right Hand,17,Widowed,Asian
+739,UEDIN,010,u,57,2,Left Hand,11,Divorced,Other
+740,BBRC,020,m,50,7,Left Hand,14,Married or cohabiting,Asian
+741,VUMC,030,f,51,1,Right Hand,11,Single,Caucasian/white
+742,CHUT,040,m,62,11,Right Hand,11,Divorced,Black
+743,CHUT,040,m,90,12,Left Hand,15,Widowed,Black
+744,VUMC,030,m,73,6,Right Hand,10,Single,Combination of previous groups
+745,BBRC,020,f,72,4,Left Hand,10,Single,Black
+746,BBRC,020,m,57,4,Right Hand,15,Divorced,Combination of previous groups
+747,VUMC,030,m,79,4,Right Hand,17,Widowed,Combination of previous groups
+748,UEDIN,010,f,59,12,Right Hand,14,Divorced,Caucasian/white
+749,CHUT,040,f,62,11,Right Hand,15,Single,Caucasian/white
+750,VUMC,030,m,50,8,Right Hand,16,Married or cohabiting,Other
+751,CHUT,040,m,68,9,Right Hand,20,Widowed,Combination of previous groups
+752,CHUT,040,f,59,4,Left Hand,19,Widowed,Caucasian/white
+753,CHUT,040,m,89,11,Left Hand,20,Widowed,Caucasian/white
+754,UEDIN,010,f,65,11,Right Hand,15,Married or cohabiting,Combination of previous groups
+755,BBRC,020,u,66,1,Left Hand,11,Divorced,Other
+756,BBRC,020,m,73,6,Right Hand,16,Single,Combination of previous groups
+757,BBRC,020,f,77,11,Left Hand,14,Married or cohabiting,Combination of previous groups
+758,CHUT,040,m,53,7,Left Hand,11,Married or cohabiting,Asian
+759,UEDIN,010,m,59,7,Left Hand,16,Divorced,Other
+760,UEDIN,010,f,58,9,Left Hand,14,Married or cohabiting,Asian
+761,VUMC,030,m,62,9,Right Hand,17,Single,Caucasian/white
+762,VUMC,030,m,57,5,Left Hand,12,Divorced,Black
+763,VUMC,030,un,57,12,Left Hand,18,Single,Other
+764,UEDIN,010,m,63,5,Right Hand,15,Single,Combination of previous groups
+765,VUMC,030,un,65,8,Right Hand,10,Widowed,Asian
+766,UEDIN,010,u,65,3,Right Hand,20,Married or cohabiting,Black
+767,BBRC,020,m,65,2,Right Hand,17,Married or cohabiting,Combination of previous groups
+768,VUMC,030,m,85,12,Right Hand,10,Single,Asian
+769,UEDIN,010,m,79,10,Right Hand,14,Married or cohabiting,Asian
+770,BBRC,020,f,70,2,Right Hand,10,Divorced,Caucasian/white
+771,UEDIN,010,un,80,12,Right Hand,19,Divorced,Black
+772,CHUT,040,f,53,11,Right Hand,13,Widowed,Caucasian/white
+773,BBRC,020,f,59,6,Right Hand,10,Single,Combination of previous groups
+774,UEDIN,010,f,54,3,Left Hand,16,Married or cohabiting,Asian
+775,CHUT,040,f,61,4,Left Hand,10,Single,Other
+776,BBRC,020,m,85,11,Left Hand,16,Divorced,Black
+777,VUMC,030,f,77,10,Left Hand,18,Divorced,Black
+778,BBRC,020,f,77,7,Left Hand,11,Divorced,Black
+779,UEDIN,010,u,62,4,Left Hand,12,Single,Caucasian/white
+780,BBRC,020,f,51,10,Left Hand,15,Divorced,Asian
+781,VUMC,030,m,66,7,Right Hand,12,Single,Combination of previous groups
+782,UEDIN,010,m,87,11,Right Hand,12,Divorced,Other
+783,BBRC,020,u,60,10,Left Hand,16,Widowed,Asian
+784,CHUT,040,m,50,7,Left Hand,16,Single,Asian
+785,BBRC,020,m,80,1,Left Hand,15,Single,Black
+786,VUMC,030,m,79,11,Right Hand,16,Single,Other
+787,CHUT,040,f,59,10,Left Hand,17,Widowed,Black
+788,BBRC,020,f,78,2,Right Hand,15,Widowed,Combination of previous groups
+789,UEDIN,010,m,73,12,Right Hand,14,Single,Asian
+790,CHUT,040,m,70,4,Left Hand,12,Divorced,Other
+791,CHUT,040,f,61,7,Right Hand,13,Divorced,Asian
+792,CHUT,040,f,72,3,Left Hand,13,Widowed,Asian
+793,VUMC,030,f,89,9,Right Hand,18,Married or cohabiting,Caucasian/white
+794,BBRC,020,f,89,5,Right Hand,20,Single,Other
+795,UEDIN,010,m,79,10,Right Hand,16,Married or cohabiting,Other
+796,CHUT,040,m,69,12,Right Hand,12,Widowed,Caucasian/white
+797,BBRC,020,u,51,7,Right Hand,12,Divorced,Other
+798,UEDIN,010,m,72,6,Right Hand,17,Married or cohabiting,Black
+799,CHUT,040,un,72,9,Left Hand,20,Divorced,Combination of previous groups
+800,BBRC,020,m,56,10,Right Hand,16,Single,Caucasian/white
+801,CHUT,040,f,74,12,Right Hand,10,Married or cohabiting,Combination of previous groups
+802,BBRC,020,m,71,7,Left Hand,19,Divorced,Asian
+803,BBRC,020,m,52,7,Right Hand,11,Single,Other
+804,UEDIN,010,un,88,9,Left Hand,17,Widowed,Black
+805,BBRC,020,f,65,2,Right Hand,18,Single,Combination of previous groups
+806,CHUT,040,f,60,1,Left Hand,19,Married or cohabiting,Black
+807,VUMC,030,m,64,4,Right Hand,14,Divorced,Combination of previous groups
+808,BBRC,020,m,78,3,Right Hand,15,Divorced,Other
+809,BBRC,020,un,50,9,Right Hand,13,Married or cohabiting,Other
+810,BBRC,020,f,67,9,Left Hand,15,Married or cohabiting,Black
+811,BBRC,020,m,81,10,Right Hand,13,Married or cohabiting,Asian
+812,VUMC,030,m,54,8,Right Hand,18,Single,Asian
+813,UEDIN,010,f,57,8,Right Hand,20,Divorced,Black
+814,CHUT,040,f,69,11,Left Hand,12,Divorced,Asian
+815,VUMC,030,f,59,1,Left Hand,12,Widowed,Caucasian/white
+816,CHUT,040,f,67,3,Right Hand,10,Married or cohabiting,Black
+817,BBRC,020,f,66,6,Left Hand,16,Single,Asian
+818,CHUT,040,m,66,4,Left Hand,19,Single,Asian
+819,VUMC,030,m,78,12,Right Hand,14,Widowed,Other
+820,BBRC,020,f,50,5,Right Hand,19,Divorced,Asian
+821,CHUT,040,f,63,3,Left Hand,17,Single,Combination of previous groups
+822,UEDIN,010,f,90,12,Right Hand,12,Single,Caucasian/white
+823,CHUT,040,f,68,10,Left Hand,15,Single,Combination of previous groups
+824,VUMC,030,m,75,12,Left Hand,17,Divorced,Combination of previous groups
+825,VUMC,030,f,51,2,Left Hand,17,Divorced,Black
+826,UEDIN,010,m,61,7,Right Hand,19,Married or cohabiting,Combination of previous groups
+827,BBRC,020,f,52,4,Left Hand,13,Married or cohabiting,Caucasian/white
+828,VUMC,030,m,65,2,Left Hand,16,Divorced,Other
+829,VUMC,030,f,74,1,Left Hand,18,Single,Combination of previous groups
+830,BBRC,020,f,69,9,Right Hand,14,Married or cohabiting,Other
+831,CHUT,040,m,90,2,Right Hand,11,Divorced,Combination of previous groups
+832,CHUT,040,f,51,11,Left Hand,18,Single,Other
+833,BBRC,020,f,80,1,Left Hand,12,Widowed,Other
+834,UEDIN,010,m,55,1,Right Hand,19,Single,Asian
+835,BBRC,020,f,55,11,Left Hand,18,Widowed,Other
+836,BBRC,020,f,77,2,Left Hand,16,Divorced,Other
+837,CHUT,040,f,62,12,Left Hand,18,Married or cohabiting,Asian
+838,VUMC,030,f,71,1,Left Hand,14,Married or cohabiting,Other
+839,UEDIN,010,m,71,3,Right Hand,11,Single,Other
+840,CHUT,040,un,89,6,Right Hand,19,Divorced,Asian
+841,VUMC,030,u,69,2,Right Hand,18,Divorced,Other
+842,CHUT,040,f,68,5,Right Hand,14,Divorced,Black
+843,VUMC,030,m,52,5,Left Hand,12,Widowed,Black
+844,VUMC,030,un,61,8,Left Hand,10,Single,Caucasian/white
+845,UEDIN,010,m,89,10,Right Hand,20,Divorced,Black
+846,VUMC,030,f,51,10,Left Hand,20,Divorced,Asian
+847,BBRC,020,f,69,4,Left Hand,20,Single,Other
+848,VUMC,030,f,72,2,Left Hand,16,Divorced,Other
+849,UEDIN,010,f,76,4,Right Hand,18,Married or cohabiting,Other
+850,VUMC,030,f,64,2,Left Hand,20,Divorced,Combination of previous groups
+851,VUMC,030,f,61,9,Right Hand,19,Single,Caucasian/white
+852,VUMC,030,f,62,2,Right Hand,18,Single,Asian
+853,CHUT,040,m,59,7,Left Hand,12,Widowed,Black
+854,UEDIN,010,un,85,3,Left Hand,15,Widowed,Asian
+855,BBRC,020,m,86,8,Left Hand,14,Widowed,Black
+856,CHUT,040,f,59,7,Left Hand,12,Widowed,Caucasian/white
+857,VUMC,030,m,71,8,Right Hand,13,Married or cohabiting,Asian
+858,UEDIN,010,f,64,5,Right Hand,10,Single,Other
+859,CHUT,040,f,60,2,Right Hand,15,Divorced,Combination of previous groups
+860,UEDIN,010,f,62,12,Left Hand,18,Single,Other
+861,VUMC,030,f,70,1,Right Hand,15,Single,Other
+862,UEDIN,010,u,58,4,Left Hand,14,Married or cohabiting,Other
+863,CHUT,040,f,89,12,Left Hand,14,Widowed,Other
+864,UEDIN,010,f,75,4,Left Hand,12,Widowed,Combination of previous groups
+865,CHUT,040,f,73,12,Right Hand,14,Married or cohabiting,Combination of previous groups
+866,UEDIN,010,f,56,8,Right Hand,13,Married or cohabiting,Combination of previous groups
+867,BBRC,020,m,67,8,Right Hand,15,Married or cohabiting,Black
+868,VUMC,030,f,69,5,Right Hand,15,Widowed,Other
+869,UEDIN,010,f,88,11,Right Hand,12,Married or cohabiting,Combination of previous groups
+870,BBRC,020,f,84,5,Left Hand,18,Divorced,Asian
+871,UEDIN,010,m,61,12,Left Hand,17,Divorced,Caucasian/white
+872,UEDIN,010,f,87,9,Left Hand,20,Widowed,Black
+873,CHUT,040,f,80,6,Left Hand,15,Married or cohabiting,Other
+874,VUMC,030,f,76,11,Left Hand,16,Widowed,Other
+875,BBRC,020,f,85,8,Right Hand,10,Married or cohabiting,Caucasian/white
+876,UEDIN,010,m,70,7,Left Hand,18,Widowed,Asian
+877,BBRC,020,m,88,6,Left Hand,11,Married or cohabiting,Caucasian/white
+878,VUMC,030,m,69,10,Right Hand,20,Divorced,Caucasian/white
+879,CHUT,040,m,77,1,Right Hand,14,Married or cohabiting,Asian
+880,UEDIN,010,m,56,10,Left Hand,18,Divorced,Other
+881,VUMC,030,m,83,4,Right Hand,14,Divorced,Combination of previous groups
+882,CHUT,040,f,74,4,Left Hand,17,Single,Caucasian/white
+883,BBRC,020,m,67,2,Right Hand,12,Widowed,Other
+884,CHUT,040,m,75,8,Left Hand,11,Widowed,Asian
+885,BBRC,020,f,79,8,Left Hand,14,Married or cohabiting,Combination of previous groups
+886,VUMC,030,f,81,11,Right Hand,19,Widowed,Asian
+887,UEDIN,010,f,59,7,Left Hand,18,Married or cohabiting,Black
+888,CHUT,040,m,65,6,Left Hand,12,Married or cohabiting,Asian
+889,UEDIN,010,m,88,2,Left Hand,12,Married or cohabiting,Black
+890,BBRC,020,f,53,12,Right Hand,11,Single,Black
+891,VUMC,030,f,86,11,Right Hand,16,Divorced,Asian
+892,CHUT,040,f,81,8,Right Hand,11,Divorced,Caucasian/white
+893,BBRC,020,m,86,2,Left Hand,14,Divorced,Black
+894,UEDIN,010,m,69,8,Right Hand,19,Divorced,Caucasian/white
+895,CHUT,040,m,69,11,Right Hand,15,Widowed,Black
+896,CHUT,040,m,50,12,Left Hand,10,Married or cohabiting,Asian
+897,VUMC,030,f,86,4,Left Hand,10,Married or cohabiting,Combination of previous groups
+898,VUMC,030,m,52,3,Right Hand,15,Single,Black
+899,CHUT,040,m,60,7,Left Hand,11,Widowed,Caucasian/white
+900,UEDIN,010,m,78,12,Left Hand,15,Married or cohabiting,Caucasian/white
+901,BBRC,020,u,75,10,Left Hand,16,Single,Combination of previous groups
+902,VUMC,030,f,60,12,Left Hand,17,Divorced,Combination of previous groups
+903,UEDIN,010,un,86,5,Left Hand,18,Widowed,Other
+904,UEDIN,010,f,85,9,Right Hand,16,Widowed,Asian
+905,BBRC,020,m,79,1,Left Hand,19,Widowed,Caucasian/white
+906,UEDIN,010,u,65,2,Left Hand,13,Divorced,Black
+907,VUMC,030,m,58,3,Right Hand,13,Divorced,Asian
+908,CHUT,040,f,85,7,Right Hand,13,Divorced,Black
+909,CHUT,040,m,84,5,Right Hand,19,Widowed,Caucasian/white
+910,BBRC,020,un,73,5,Left Hand,11,Single,Asian
+911,VUMC,030,f,82,8,Right Hand,19,Married or cohabiting,Black
+912,CHUT,040,m,53,12,Left Hand,16,Divorced,Black
+913,UEDIN,010,f,70,12,Left Hand,19,Single,Combination of previous groups
+914,CHUT,040,m,85,10,Left Hand,18,Divorced,Combination of previous groups
+915,CHUT,040,f,76,12,Right Hand,18,Divorced,Combination of previous groups
+916,BBRC,020,m,67,6,Right Hand,12,Married or cohabiting,Black
+917,BBRC,020,u,84,10,Left Hand,13,Single,Caucasian/white
+918,BBRC,020,u,85,8,Left Hand,11,Married or cohabiting,Black
+919,BBRC,020,f,79,11,Right Hand,16,Single,Asian
+920,UEDIN,010,f,67,10,Left Hand,14,Married or cohabiting,Asian
+921,CHUT,040,f,66,3,Left Hand,17,Single,Other
+922,VUMC,030,u,72,3,Right Hand,18,Widowed,Asian
+923,CHUT,040,f,68,12,Right Hand,16,Divorced,Asian
+924,BBRC,020,m,67,6,Left Hand,15,Single,Other
+925,CHUT,040,m,52,12,Left Hand,18,Widowed,Combination of previous groups
+926,VUMC,030,f,90,12,Right Hand,19,Single,Black
+927,VUMC,030,m,69,7,Right Hand,12,Widowed,Other
+928,UEDIN,010,u,62,2,Right Hand,18,Married or cohabiting,Black
+929,BBRC,020,f,50,4,Right Hand,11,Single,Black
+930,BBRC,020,m,81,8,Right Hand,19,Married or cohabiting,Asian
+931,VUMC,030,un,73,4,Right Hand,18,Divorced,Black
+932,UEDIN,010,m,50,4,Right Hand,19,Single,Other
+933,BBRC,020,un,75,6,Left Hand,18,Divorced,Black
+934,VUMC,030,f,88,5,Left Hand,14,Widowed,Asian
+935,CHUT,040,m,85,5,Right Hand,10,Married or cohabiting,Other
+936,CHUT,040,m,68,12,Right Hand,20,Married or cohabiting,Asian
+937,UEDIN,010,m,76,9,Right Hand,18,Single,Black
+938,UEDIN,010,f,71,9,Right Hand,12,Widowed,Caucasian/white
+939,VUMC,030,u,80,7,Right Hand,19,Widowed,Combination of previous groups
+940,BBRC,020,f,67,2,Left Hand,13,Widowed,Black
+941,CHUT,040,m,90,4,Left Hand,14,Married or cohabiting,Asian
+942,BBRC,020,m,85,9,Left Hand,17,Single,Other
+943,UEDIN,010,m,77,12,Right Hand,11,Single,Combination of previous groups
+944,CHUT,040,m,63,10,Right Hand,10,Single,Asian
+945,VUMC,030,f,88,6,Left Hand,10,Widowed,Caucasian/white
+946,CHUT,040,m,80,4,Right Hand,12,Single,Black
+947,BBRC,020,un,88,7,Left Hand,13,Single,Asian
+948,CHUT,040,m,56,7,Left Hand,17,Divorced,Asian
+949,BBRC,020,un,61,12,Right Hand,12,Single,Combination of previous groups
+950,UEDIN,010,f,71,5,Left Hand,20,Divorced,Black
+951,VUMC,030,f,51,12,Right Hand,20,Married or cohabiting,Asian
+952,VUMC,030,f,86,4,Right Hand,17,Widowed,Combination of previous groups
+953,UEDIN,010,f,60,12,Right Hand,13,Single,Combination of previous groups
+954,BBRC,020,f,53,2,Left Hand,13,Divorced,Combination of previous groups
+955,VUMC,030,f,78,6,Right Hand,11,Widowed,Combination of previous groups
+956,VUMC,030,m,71,9,Right Hand,19,Divorced,Asian
+957,UEDIN,010,f,66,6,Left Hand,10,Widowed,Other
+958,VUMC,030,f,65,8,Right Hand,19,Widowed,Black
+959,UEDIN,010,m,58,12,Left Hand,11,Widowed,Combination of previous groups
+960,UEDIN,010,m,79,9,Left Hand,20,Single,Asian
+961,CHUT,040,f,89,4,Left Hand,13,Divorced,Caucasian/white
+962,VUMC,030,m,61,4,Left Hand,11,Single,Caucasian/white
+963,BBRC,020,m,55,5,Left Hand,18,Widowed,Black
+964,UEDIN,010,f,55,8,Left Hand,16,Single,Combination of previous groups
+965,VUMC,030,f,67,3,Right Hand,19,Married or cohabiting,Combination of previous groups
+966,BBRC,020,m,82,4,Left Hand,19,Single,Combination of previous groups
+967,BBRC,020,m,62,1,Right Hand,17,Widowed,Combination of previous groups
+968,BBRC,020,f,57,9,Left Hand,16,Married or cohabiting,Caucasian/white
+969,UEDIN,010,m,82,12,Right Hand,15,Widowed,Black
+970,UEDIN,010,m,83,10,Right Hand,19,Divorced,Asian
+971,BBRC,020,f,75,12,Left Hand,15,Married or cohabiting,Asian
+972,UEDIN,010,m,66,1,Right Hand,16,Divorced,Asian
+973,VUMC,030,f,50,5,Right Hand,13,Married or cohabiting,Other
+974,BBRC,020,m,81,5,Right Hand,17,Widowed,Other
+975,CHUT,040,un,82,10,Right Hand,19,Single,Black
+976,CHUT,040,f,55,10,Right Hand,16,Single,Black
+977,VUMC,030,f,77,7,Left Hand,14,Married or cohabiting,Asian
+978,VUMC,030,f,52,7,Left Hand,19,Single,Asian
+979,BBRC,020,f,63,5,Right Hand,18,Divorced,Combination of previous groups
+980,BBRC,020,f,54,3,Left Hand,20,Married or cohabiting,Combination of previous groups
+981,VUMC,030,f,83,5,Right Hand,20,Married or cohabiting,Combination of previous groups
+982,VUMC,030,m,67,2,Left Hand,13,Married or cohabiting,Black
+983,UEDIN,010,m,78,2,Left Hand,19,Divorced,Black
+984,CHUT,040,m,60,11,Right Hand,11,Widowed,Caucasian/white
+985,BBRC,020,m,79,3,Left Hand,16,Single,Black
+986,UEDIN,010,m,60,5,Left Hand,15,Divorced,Caucasian/white
+987,UEDIN,010,f,61,8,Right Hand,14,Single,Other
+988,VUMC,030,f,50,3,Left Hand,19,Married or cohabiting,Other
+989,BBRC,020,f,58,7,Right Hand,20,Single,Other
+990,UEDIN,010,f,53,12,Right Hand,10,Widowed,Combination of previous groups
+991,VUMC,030,f,71,9,Right Hand,18,Single,Combination of previous groups
+992,VUMC,030,un,75,12,Left Hand,13,Widowed,Asian
+993,UEDIN,010,m,83,2,Right Hand,11,Widowed,Caucasian/white
+994,CHUT,040,f,73,10,Right Hand,18,Married or cohabiting,Asian
+995,VUMC,030,un,60,5,Right Hand,14,Divorced,Black
+996,UEDIN,010,m,89,4,Right Hand,12,Single,Caucasian/white
+997,VUMC,030,m,81,10,Left Hand,13,Widowed,Caucasian/white
+998,UEDIN,010,m,66,3,Right Hand,20,Divorced,Asian
+999,VUMC,030,m,70,9,Left Hand,16,Widowed,Combination of previous groups
+1000,VUMC,030,un,57,2,Right Hand,14,Divorced,Black
