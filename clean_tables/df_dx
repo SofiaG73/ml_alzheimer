@@ -1,0 +1,901 @@
+dx_v1,dx_v2,dx_v3,dx_change,change,mydxchange,dx_change_final,at_least_two_nans
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,Dem,NC,Reversion: MCI to NC,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+,,Dem,,False,False,False,True
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+MCI,MCI,Dem,Conversion: MCI to Dementia,True,False,True,False
+,Dem,NC,,False,False,False,False
+MCI,MCI,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,MCI,MCI,Reversion: Dementia to MCI,False,False,False,False
+,NC,Dem,,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+MCI,MCI,NC,Reversion: MCI to NC,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+MCI,MCI,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+,NC,NC,,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,NC,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,NC,MCI,Reversion: Dementia to MCI,False,False,False,False
+NC,NC,MCI,Conversion: NC to MCI,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,,Dem,Stable: Dementia,False,False,False,False
+,Dem,Dem,,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,NC,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+,NC,,,False,False,False,True
+,Dem,NC,,False,False,False,False
+MCI,MCI,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+MCI,NC,Dem,Conversion: MCI to Dementia,True,False,True,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+NC,Dem,NC,Stable: NC ,False,False,False,False
+NC,Dem,,,False,False,False,False
+,MCI,Dem,,False,True,True,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+MCI,MCI,,,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+MCI,MCI,MCI,Stable: MCI,False,False,False,False
+MCI,Dem,NC,Reversion: MCI to NC,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,MCI,,,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+,MCI,Dem,,False,True,True,False
+NC,,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,,Dem,Stable: Dementia,False,False,False,False
+,MCI,Dem,,False,True,True,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,NC,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+NC,MCI,Dem,Conversion: NC to Dementia,True,False,True,False
+NC,MCI,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+,,Dem,,False,False,False,True
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,MCI,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,,,False,False,False,False
+,NC,NC,,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+MCI,MCI,MCI,Stable: MCI,False,False,False,False
+MCI,Dem,NC,Reversion: MCI to NC,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,,,False,False,False,False
+Dem,,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+NC,MCI,,,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+,,Dem,,False,False,False,True
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,,,,False,False,False,True
+,Dem,Dem,,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,,MCI,Stable: MCI,False,False,False,False
+MCI,Dem,NC,Reversion: MCI to NC,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,Dem,MCI,Stable: MCI,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+,Dem,Dem,,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+NC,Dem,MCI,Conversion: NC to MCI,False,False,False,False
+Dem,,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,NC,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,NC,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,,,False,False,False,False
+,Dem,NC,,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+NC,MCI,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+Dem,,,,False,False,False,True
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+MCI,NC,,,False,False,False,False
+Dem,NC,MCI,Reversion: Dementia to MCI,False,False,False,False
+,MCI,Dem,,False,True,True,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+,NC,NC,,False,False,False,False
+,NC,Dem,,False,False,False,False
+Dem,,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+,NC,Dem,,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+MCI,Dem,MCI,Stable: MCI,False,False,False,False
+MCI,Dem,MCI,Stable: MCI,False,False,False,False
+Dem,,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+NC,MCI,MCI,Conversion: NC to MCI,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+,Dem,Dem,,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,Dem,MCI,Stable: MCI,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,,,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+MCI,NC,Dem,Conversion: MCI to Dementia,True,False,True,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+NC,NC,Dem,Conversion: NC to Dementia,True,False,True,False
+NC,,NC,Stable: NC ,False,False,False,False
+MCI,NC,MCI,Stable: MCI,False,False,False,False
+NC,Dem,NC,Stable: NC ,False,False,False,False
+Dem,MCI,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,,,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+MCI,MCI,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+Dem,,,,False,False,False,True
+MCI,MCI,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,NC,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,,,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,NC,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,NC,NC,Reversion: Dementia to NC,False,False,False,False
+NC,MCI,Dem,Conversion: NC to Dementia,True,False,True,False
+MCI,MCI,MCI,Stable: MCI,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+,Dem,,,False,False,False,True
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+NC,MCI,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,,Dem,Stable: Dementia,False,False,False,False
+,,Dem,,False,False,False,True
+Dem,,Dem,Stable: Dementia,False,False,False,False
+MCI,NC,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+NC,MCI,NC,Stable: NC ,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+MCI,Dem,,,False,True,True,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+NC,MCI,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,,,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+,Dem,Dem,,False,False,False,False
+MCI,,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,NC,,,False,False,False,False
+Dem,Dem,,,False,False,False,False
+Dem,,Dem,Stable: Dementia,False,False,False,False
+Dem,MCI,NC,Reversion: Dementia to NC,False,False,False,False
+MCI,NC,MCI,Stable: MCI,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,Dem,,,False,False,False,False
+NC,MCI,,,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+NC,NC,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+,Dem,MCI,,False,False,False,False
+Dem,,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+NC,MCI,NC,Stable: NC ,False,False,False,False
+MCI,,,,False,False,False,True
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+NC,Dem,NC,Stable: NC ,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+NC,,Dem,Conversion: NC to Dementia,True,False,True,False
+NC,NC,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,Dem,,,False,False,False,False
+,NC,NC,,False,False,False,False
+,Dem,Dem,,False,False,False,False
+MCI,Dem,NC,Reversion: MCI to NC,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,Dem,MCI,Stable: MCI,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+,,Dem,,False,False,False,True
+NC,Dem,NC,Stable: NC ,False,False,False,False
+MCI,Dem,NC,Reversion: MCI to NC,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+NC,,Dem,Conversion: NC to Dementia,True,False,True,False
+MCI,Dem,MCI,Stable: MCI,False,False,False,False
+NC,MCI,NC,Stable: NC ,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+,MCI,NC,,False,False,False,False
+NC,MCI,Dem,Conversion: NC to Dementia,True,False,True,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,NC,MCI,Reversion: Dementia to MCI,False,False,False,False
+NC,,,,False,False,False,True
+,NC,,,False,False,False,True
+Dem,,Dem,Stable: Dementia,False,False,False,False
+NC,MCI,Dem,Conversion: NC to Dementia,True,False,True,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+NC,MCI,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+NC,MCI,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,MCI,MCI,Stable: MCI,False,False,False,False
+Dem,,,,False,False,False,True
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+,,,,False,False,False,True
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,,,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+Dem,MCI,MCI,Reversion: Dementia to MCI,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+,Dem,MCI,,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,NC,Dem,Conversion: MCI to Dementia,True,False,True,False
+NC,Dem,,,False,False,False,False
+NC,NC,Dem,Conversion: NC to Dementia,True,False,True,False
+MCI,Dem,MCI,Stable: MCI,False,False,False,False
+Dem,,Dem,Stable: Dementia,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+MCI,Dem,MCI,Stable: MCI,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+MCI,MCI,,,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+NC,NC,NC,Stable: NC ,False,False,False,False
+Dem,MCI,NC,Reversion: Dementia to NC,False,False,False,False
+MCI,Dem,MCI,Stable: MCI,False,False,False,False
+MCI,MCI,Dem,Conversion: MCI to Dementia,True,False,True,False
+MCI,NC,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,NC,,,False,False,False,False
+Dem,MCI,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,,Dem,Stable: Dementia,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+,Dem,Dem,,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+,Dem,Dem,,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+,MCI,Dem,,False,True,True,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+NC,,MCI,Conversion: NC to MCI,False,False,False,False
+NC,Dem,MCI,Conversion: NC to MCI,False,False,False,False
+Dem,MCI,NC,Reversion: Dementia to NC,False,False,False,False
+NC,,Dem,Conversion: NC to Dementia,True,False,True,False
+,Dem,Dem,,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,MCI,NC,Reversion: MCI to NC,False,False,False,False
+NC,,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+NC,NC,MCI,Conversion: NC to MCI,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+MCI,,MCI,Stable: MCI,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,Dem,NC,Reversion: MCI to NC,False,False,False,False
+NC,Dem,,,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+,Dem,Dem,,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+NC,,MCI,Conversion: NC to MCI,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+NC,Dem,,,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+MCI,Dem,NC,Reversion: MCI to NC,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,Dem,MCI,Stable: MCI,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+,NC,Dem,,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,NC,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+NC,Dem,MCI,Conversion: NC to MCI,False,False,False,False
+Dem,,Dem,Stable: Dementia,False,False,False,False
+NC,,,,False,False,False,True
+Dem,NC,MCI,Reversion: Dementia to MCI,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,Dem,,,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+MCI,NC,MCI,Stable: MCI,False,False,False,False
+,NC,NC,,False,False,False,False
+MCI,NC,NC,Reversion: MCI to NC,False,False,False,False
+MCI,,Dem,Conversion: MCI to Dementia,True,False,True,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+,,Dem,,False,False,False,True
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,MCI,Dem,Conversion: MCI to Dementia,True,False,True,False
+NC,MCI,Dem,Conversion: NC to Dementia,True,False,True,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+,Dem,Dem,,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+NC,NC,NC,Stable: NC ,False,False,False,False
+MCI,MCI,Dem,Conversion: MCI to Dementia,True,False,True,False
+,MCI,Dem,,False,True,True,False
+NC,NC,NC,Stable: NC ,False,False,False,False
+MCI,NC,NC,Reversion: MCI to NC,False,False,False,False
+Dem,MCI,MCI,Reversion: Dementia to MCI,False,False,False,False
+,Dem,Dem,,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+,Dem,Dem,,False,False,False,False
+MCI,Dem,MCI,Stable: MCI,False,False,False,False
+MCI,,NC,Reversion: MCI to NC,False,False,False,False
+Dem,MCI,,,False,False,False,False
+Dem,Dem,,,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+MCI,Dem,NC,Reversion: MCI to NC,False,False,False,False
+NC,,NC,Stable: NC ,False,False,False,False
+,MCI,Dem,,False,True,True,False
+MCI,NC,NC,Reversion: MCI to NC,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,,,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+,MCI,Dem,,False,True,True,False
+NC,Dem,NC,Stable: NC ,False,False,False,False
+MCI,NC,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+NC,,Dem,Conversion: NC to Dementia,True,False,True,False
+,Dem,Dem,,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+NC,MCI,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,NC,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,NC,NC,Reversion: Dementia to NC,False,False,False,False
+MCI,MCI,Dem,Conversion: MCI to Dementia,True,False,True,False
+,MCI,Dem,,False,True,True,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+MCI,MCI,NC,Reversion: MCI to NC,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,NC,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,,,,False,False,False,True
+Dem,MCI,MCI,Reversion: Dementia to MCI,False,False,False,False
+MCI,MCI,MCI,Stable: MCI,False,False,False,False
+MCI,NC,MCI,Stable: MCI,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+NC,NC,Dem,Conversion: NC to Dementia,True,False,True,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,MCI,,,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,,Dem,Stable: Dementia,False,False,False,False
+NC,MCI,NC,Stable: NC ,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+NC,NC,Dem,Conversion: NC to Dementia,True,False,True,False
+,Dem,Dem,,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+Dem,NC,,,False,False,False,False
+MCI,NC,MCI,Stable: MCI,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+,NC,Dem,,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+,NC,Dem,,False,False,False,False
+MCI,NC,,,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,NC,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+,Dem,NC,,False,False,False,False
+NC,Dem,MCI,Conversion: NC to MCI,False,False,False,False
+Dem,NC,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,NC,MCI,Reversion: Dementia to MCI,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,MCI,MCI,Reversion: Dementia to MCI,False,False,False,False
+MCI,MCI,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,,,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+MCI,NC,Dem,Conversion: MCI to Dementia,True,False,True,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+,NC,,,False,False,False,True
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,,,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,,Dem,Stable: Dementia,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+,,Dem,,False,False,False,True
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+NC,,MCI,Conversion: NC to MCI,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+,MCI,NC,,False,False,False,False
+Dem,NC,NC,Reversion: Dementia to NC,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+,Dem,Dem,,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,,,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+,,MCI,,False,False,False,True
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,NC,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,,,False,False,False,False
+Dem,MCI,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+Dem,NC,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+MCI,NC,MCI,Stable: MCI,False,False,False,False
+NC,MCI,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+NC,Dem,NC,Stable: NC ,False,False,False,False
+MCI,NC,Dem,Conversion: MCI to Dementia,True,False,True,False
+,Dem,MCI,,False,False,False,False
+Dem,MCI,NC,Reversion: Dementia to NC,False,False,False,False
+NC,MCI,Dem,Conversion: NC to Dementia,True,False,True,False
+,,,,False,False,False,True
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,NC,,,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,,MCI,Reversion: Dementia to MCI,False,False,False,False
+,Dem,NC,,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,NC,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+NC,NC,NC,Stable: NC ,False,False,False,False
+Dem,NC,MCI,Reversion: Dementia to MCI,False,False,False,False
+,MCI,MCI,,False,False,False,False
+,Dem,NC,,False,False,False,False
+NC,MCI,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,Dem,,,False,True,True,False
+MCI,MCI,Dem,Conversion: MCI to Dementia,True,False,True,False
+NC,MCI,MCI,Conversion: NC to MCI,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,NC,,,False,False,False,False
+Dem,Dem,,,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+MCI,,NC,Reversion: MCI to NC,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,MCI,,,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,Dem,,,False,False,False,False
+Dem,,Dem,Stable: Dementia,False,False,False,False
+NC,MCI,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+MCI,MCI,MCI,Stable: MCI,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+Dem,MCI,NC,Reversion: Dementia to NC,False,False,False,False
+,NC,MCI,,False,False,False,False
+,MCI,Dem,,False,True,True,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+NC,NC,MCI,Conversion: NC to MCI,False,False,False,False
+MCI,NC,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,Dem,MCI,Stable: MCI,False,False,False,False
+Dem,Dem,,,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+NC,,NC,Stable: NC ,False,False,False,False
+,Dem,NC,,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,MCI,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+,MCI,NC,,False,False,False,False
+MCI,,Dem,Conversion: MCI to Dementia,True,False,True,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+NC,Dem,MCI,Conversion: NC to MCI,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+NC,Dem,,,False,False,False,False
+NC,Dem,NC,Stable: NC ,False,False,False,False
+,NC,Dem,,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+NC,,Dem,Conversion: NC to Dementia,True,False,True,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+NC,Dem,,,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,NC,NC,Reversion: MCI to NC,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+NC,Dem,MCI,Conversion: NC to MCI,False,False,False,False
+MCI,NC,Dem,Conversion: MCI to Dementia,True,False,True,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+,Dem,,,False,False,False,True
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+NC,Dem,MCI,Conversion: NC to MCI,False,False,False,False
+,NC,NC,,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,,Dem,Stable: Dementia,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+NC,MCI,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,NC,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,NC,,,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+NC,,Dem,Conversion: NC to Dementia,True,False,True,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,NC,,,False,False,False,False
+MCI,NC,Dem,Conversion: MCI to Dementia,True,False,True,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,MCI,MCI,Reversion: Dementia to MCI,False,False,False,False
+MCI,Dem,,,False,True,True,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,,,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+MCI,Dem,NC,Reversion: MCI to NC,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+MCI,NC,MCI,Stable: MCI,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+NC,,NC,Stable: NC ,False,False,False,False
+Dem,NC,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+NC,MCI,NC,Stable: NC ,False,False,False,False
+MCI,Dem,MCI,Stable: MCI,False,False,False,False
+Dem,NC,MCI,Reversion: Dementia to MCI,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+MCI,,Dem,Conversion: MCI to Dementia,True,False,True,False
+MCI,Dem,MCI,Stable: MCI,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+MCI,Dem,NC,Reversion: MCI to NC,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,,,False,False,False,False
+NC,MCI,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+,NC,Dem,,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+NC,Dem,NC,Stable: NC ,False,False,False,False
+MCI,MCI,Dem,Conversion: MCI to Dementia,True,False,True,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+NC,Dem,NC,Stable: NC ,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+,Dem,MCI,,False,False,False,False
+Dem,,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+NC,Dem,,,False,False,False,False
+Dem,,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,MCI,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,MCI,,,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,NC,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,MCI,MCI,Reversion: Dementia to MCI,False,False,False,False
+MCI,Dem,,,False,True,True,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,,,False,False,False,False
+Dem,NC,,,False,False,False,False
+Dem,MCI,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+,MCI,Dem,,False,True,True,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+MCI,NC,,,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+NC,NC,MCI,Conversion: NC to MCI,False,False,False,False
+MCI,Dem,MCI,Stable: MCI,False,False,False,False
+MCI,MCI,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+MCI,Dem,,,False,True,True,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+,,Dem,,False,False,False,True
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+NC,Dem,,,False,False,False,False
+MCI,NC,NC,Reversion: MCI to NC,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+MCI,MCI,MCI,Stable: MCI,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+NC,MCI,NC,Stable: NC ,False,False,False,False
+Dem,,,,False,False,False,True
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+NC,NC,NC,Stable: NC ,False,False,False,False
+MCI,MCI,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,,,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+NC,Dem,MCI,Conversion: NC to MCI,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+MCI,Dem,,,False,True,True,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+,NC,MCI,,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+NC,Dem,NC,Stable: NC ,False,False,False,False
+Dem,Dem,,,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+NC,,Dem,Conversion: NC to Dementia,True,False,True,False
+MCI,MCI,,,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+,Dem,MCI,,False,False,False,False
+Dem,NC,,,False,False,False,False
+NC,Dem,MCI,Conversion: NC to MCI,False,False,False,False
+MCI,Dem,MCI,Stable: MCI,False,False,False,False
+,Dem,,,False,False,False,True
+Dem,MCI,,,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,,,False,False,False,False
+Dem,NC,NC,Reversion: Dementia to NC,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,MCI,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,NC,MCI,Reversion: Dementia to MCI,False,False,False,False
+MCI,NC,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,MCI,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+MCI,NC,,,False,False,False,False
+NC,MCI,MCI,Conversion: NC to MCI,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+,Dem,Dem,,False,False,False,False
+,MCI,Dem,,False,True,True,False
+Dem,NC,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,NC,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,MCI,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,NC,MCI,Reversion: Dementia to MCI,False,False,False,False
+MCI,NC,Dem,Conversion: MCI to Dementia,True,False,True,False
+,Dem,MCI,,False,False,False,False
+MCI,Dem,NC,Reversion: MCI to NC,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+,NC,MCI,,False,False,False,False
+Dem,MCI,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,,MCI,Reversion: Dementia to MCI,False,False,False,False
+,NC,NC,,False,False,False,False
+Dem,NC,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+,Dem,,,False,False,False,True
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+NC,Dem,NC,Stable: NC ,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+MCI,MCI,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+,Dem,NC,,False,False,False,False
+Dem,,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,,MCI,Reversion: Dementia to MCI,False,False,False,False
+NC,Dem,,,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,NC,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,NC,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+Dem,MCI,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,,,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+NC,Dem,MCI,Conversion: NC to MCI,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,,MCI,Reversion: Dementia to MCI,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,Dem,NC,Reversion: MCI to NC,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+MCI,MCI,NC,Reversion: MCI to NC,False,False,False,False
+Dem,NC,MCI,Reversion: Dementia to MCI,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,MCI,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,MCI,MCI,Reversion: Dementia to MCI,False,False,False,False
+NC,NC,,,False,False,False,False
+NC,NC,Dem,Conversion: NC to Dementia,True,False,True,False
+MCI,MCI,Dem,Conversion: MCI to Dementia,True,False,True,False
+,Dem,NC,,False,False,False,False
+NC,Dem,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,Dem,NC,Reversion: MCI to NC,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+,,Dem,,False,False,False,True
+Dem,Dem,,,False,False,False,False
+NC,MCI,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+NC,NC,Dem,Conversion: NC to Dementia,True,False,True,False
+NC,Dem,NC,Stable: NC ,False,False,False,False
+MCI,MCI,,,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+MCI,Dem,Dem,Conversion: MCI to Dementia,True,False,True,False
+NC,Dem,,,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+MCI,NC,Dem,Conversion: MCI to Dementia,True,False,True,False
+NC,,Dem,Conversion: NC to Dementia,True,False,True,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+,NC,Dem,,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,NC,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+MCI,,NC,Reversion: MCI to NC,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+Dem,NC,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,NC,,,False,False,False,False
+Dem,Dem,,,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+MCI,Dem,NC,Reversion: MCI to NC,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+MCI,,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+NC,MCI,Dem,Conversion: NC to Dementia,True,False,True,False
+MCI,,Dem,Conversion: MCI to Dementia,True,False,True,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+MCI,MCI,NC,Reversion: MCI to NC,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+,Dem,Dem,,False,False,False,False
+Dem,NC,NC,Reversion: Dementia to NC,False,False,False,False
+Dem,MCI,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,,,False,False,False,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+MCI,Dem,,,False,True,True,False
+Dem,NC,Dem,Stable: Dementia,False,False,False,False
+Dem,Dem,Dem,Stable: Dementia,False,False,False,False
+Dem,,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+NC,MCI,Dem,Conversion: NC to Dementia,True,False,True,False
+MCI,Dem,,,False,True,True,False
+Dem,MCI,MCI,Reversion: Dementia to MCI,False,False,False,False
+Dem,Dem,NC,Reversion: Dementia to NC,False,False,False,False
+MCI,Dem,NC,Reversion: MCI to NC,False,False,False,False
